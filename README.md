@@ -22,4 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
+## String
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
