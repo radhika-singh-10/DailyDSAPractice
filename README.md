@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 ## Matrix
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
+## Sorting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
