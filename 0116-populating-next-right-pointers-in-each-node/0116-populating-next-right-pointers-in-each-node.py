@@ -22,25 +22,4 @@ class Solution:
                     queue.extend([cur_node.right,cur_node.left])
         return root
 
-        #incorrect logic
-        # level, res, d = 0, [], {}
-        
-        # def find_level(node, level):
-        #     if not node:
-        #         return d
-        #     if level not in d:
-        #         d[level] = []
-        #     d[level].append(node.val)
-        #     find_level(node.left, level + 1)
-        #     find_level(node.right, level + 1)
-
-        # find_level(root, level)
-        
-        # for key in d:
-            
-        #     for v in d[key]:
-        #         print(d[key],v)
-        #         res.append(v)
-        #     res.append('#')
-
         
