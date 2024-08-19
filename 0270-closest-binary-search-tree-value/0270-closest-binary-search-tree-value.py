@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-import math 
+
 class Solution:
     def closestValue(self, root: Optional[TreeNode], target: float) -> int:
         val = root.val
