@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0062-unique-paths) |
 | [1274-number-of-days-between-two-dates](https://github.com/radhika-singh-10/leet-code/tree/master/1274-number-of-days-between-two-dates) |
+| [2610-closest-prime-numbers-in-range](https://github.com/radhika-singh-10/leet-code/tree/master/2610-closest-prime-numbers-in-range) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/radhika-singh-10/leet-code/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
