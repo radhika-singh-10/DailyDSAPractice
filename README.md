@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
 ## String
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/radhika-singh-10/leet-code/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [1274-number-of-days-between-two-dates](https://github.com/radhika-singh-10/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/radhika-singh-10/leet-code/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1274-number-of-days-between-two-dates](https://github.com/radhika-singh-10/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [2610-closest-prime-numbers-in-range](https://github.com/radhika-singh-10/leet-code/tree/master/2610-closest-prime-numbers-in-range) |
