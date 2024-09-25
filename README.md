@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/radhika-singh-10/leet-code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/radhika-singh-10/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
 | [0561-array-partition](https://github.com/radhika-singh-10/leet-code/tree/master/0561-array-partition) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/radhika-singh-10/leet-code/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1833-find-the-highest-altitude](https://github.com/radhika-singh-10/leet-code/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
