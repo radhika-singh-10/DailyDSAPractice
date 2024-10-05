@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/radhika-singh-10/leet-code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/radhika-singh-10/leet-code/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/radhika-singh-10/leet-code/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/radhika-singh-10/leet-code/tree/master/0198-house-robber) |
