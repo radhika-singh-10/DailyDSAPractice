@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
+| [0339-nested-list-weight-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0339-nested-list-weight-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/radhika-singh-10/leet-code/tree/master/0199-binary-tree-right-side-view) |
+| [0339-nested-list-weight-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0339-nested-list-weight-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
