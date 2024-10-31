@@ -1,11 +1,10 @@
 class Solution:
     def validWordAbbreviation(self, word: str, abbr: str) -> bool:
         n1, n2 = len(word), len(abbr)
-        i = j = 0  # i for word, j for abbr
+        i = j = 0  
         
         while i < n1 and j < n2:
             if abbr[j].isdigit():
-                # Handle leading zero
                 if abbr[j] == '0':
                     return False
                 count = 0
