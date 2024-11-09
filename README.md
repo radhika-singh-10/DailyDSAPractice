@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1833-find-the-highest-altitude](https://github.com/radhika-singh-10/leet-code/tree/master/1833-find-the-highest-altitude) |
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/radhika-singh-10/leet-code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0339-nested-list-weight-sum) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
