@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/radhika-singh-10/leet-code/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/radhika-singh-10/leet-code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/radhika-singh-10/leet-code/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/radhika-singh-10/leet-code/tree/master/0223-rectangle-area) |
