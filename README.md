@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/radhika-singh-10/leet-code/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/radhika-singh-10/leet-code/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0213-house-robber-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/radhika-singh-10/leet-code/tree/master/0162-find-peak-element) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0374-guess-number-higher-or-lower](https://github.com/radhika-singh-10/leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
