@@ -132,6 +132,7 @@ A curated list of resources for learning DSA and competitive programming, includ
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -150,6 +151,7 @@ A curated list of resources for learning DSA and competitive programming, includ
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -164,6 +166,7 @@ A curated list of resources for learning DSA and competitive programming, includ
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/radhika-singh-10/leet-code/tree/master/0199-binary-tree-right-side-view) |
@@ -181,6 +184,7 @@ A curated list of resources for learning DSA and competitive programming, includ
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
