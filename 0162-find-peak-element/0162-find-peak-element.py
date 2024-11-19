@@ -8,15 +8,13 @@ class Solution:
             return 1
         elif len(nums)==2 and nums[0]>nums[1]:
             return 0
-        while l<=r:
+        while l<r:
             m=l+(r-l)//2
-            if (m==0 or nums[m]>nums[m-1]) and (m==len(nums)-1 or nums[m]>nums[m+1]):
-                return m
-            elif nums[m]<nums[m-1] and nums[m]>nums[m+1]:
-                r=m-1
+            if nums[m]>nums[m+1]:
+                r=m
             else:
                 l=m+1
 
-        return peak
+        return l
 
         
