@@ -52,6 +52,7 @@ A curated list of resources for learning DSA and competitive programming, includ
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/radhika-singh-10/leet-code/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/radhika-singh-10/leet-code/tree/master/0735-asteroid-collision) |
 | [0777-toeplitz-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/0777-toeplitz-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
@@ -108,6 +109,7 @@ A curated list of resources for learning DSA and competitive programming, includ
 | [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/radhika-singh-10/leet-code/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/radhika-singh-10/leet-code/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/radhika-singh-10/leet-code/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
 ## String
@@ -141,6 +143,7 @@ A curated list of resources for learning DSA and competitive programming, includ
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/radhika-singh-10/leet-code/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/radhika-singh-10/leet-code/tree/master/0735-asteroid-collision) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/radhika-singh-10/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1909-buildings-with-an-ocean-view](https://github.com/radhika-singh-10/leet-code/tree/master/1909-buildings-with-an-ocean-view) |
