@@ -233,6 +233,7 @@ A curated list of resources for learning DSA and competitive programming, includ
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/radhika-singh-10/leet-code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/radhika-singh-10/leet-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/radhika-singh-10/leet-code/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/radhika-singh-10/leet-code/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0227-basic-calculator-ii) |
@@ -310,6 +311,7 @@ A curated list of resources for learning DSA and competitive programming, includ
 | ------- |
 | [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/radhika-singh-10/leet-code/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/radhika-singh-10/leet-code/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/radhika-singh-10/leet-code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0213-house-robber-ii) |
@@ -398,4 +400,8 @@ A curated list of resources for learning DSA and competitive programming, includ
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/radhika-singh-10/leet-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
