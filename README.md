@@ -157,6 +157,7 @@ A curated list of resources for learning DSA and competitive programming, includ
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0077-combinations](https://github.com/radhika-singh-10/leet-code/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
