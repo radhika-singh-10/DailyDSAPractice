@@ -7,7 +7,7 @@ class Solution:
     def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         #edge case -> head, head.next -null, 0,1 elem, k=0(same list)
         #approach->find the length, edge - if k%l ==0, return same list
-        #steps=k%l steps-1 => new-_tail=new_tail.next => new_head=new_tail.next
+        #k=k%l steps-k-l-1 => new-_tail=new_tail.next => new_head=new_tail.next
         #new_tail.next=None tail.next=head  
         #new_head
         if not head or not head.next or k == 0:
