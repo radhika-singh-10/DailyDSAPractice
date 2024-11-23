@@ -5,14 +5,11 @@
 #         self.next = next
 class Solution:
     def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        #first_ptr,second_ptr = head, head.next
-        #first_p=first_pt.next,second_pt=second_pt.next
-        #while not first_ptr:
-        #. first_p=first_pt.next,second_pt=second_pt.next
-        #. if not second_ptr:
-        #     second_ptr.next=head
-        #.    first_ptr.next=None
-        #. k-=1
+        #edge case -> head, head.next -null, 0,1 elem, k=0(same list)
+        #approach->find the length, edge - if k%l ==0, return same list
+        #steps=k%l steps-1 => new-_tail=new_tail.next => new_head=new_tail.next
+        #new_tail.next=None tail.next=head  
+        #new_head
         if not head or not head.next or k == 0:
             return head
         l = 1
