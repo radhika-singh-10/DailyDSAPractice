@@ -235,6 +235,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0543-diameter-of-binary-tree) |
+| [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -254,6 +255,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0339-nested-list-weight-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0339-nested-list-weight-sum) |
 | [0366-find-leaves-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0543-diameter-of-binary-tree) |
+| [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
@@ -274,6 +276,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0543-diameter-of-binary-tree) |
+| [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sorting
@@ -332,6 +335,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0339-nested-list-weight-sum) |
+| [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
