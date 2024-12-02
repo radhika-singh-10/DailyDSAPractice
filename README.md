@@ -81,6 +81,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0001-two-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/radhika-singh-10/leet-code/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/radhika-singh-10/leet-code/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
@@ -207,6 +208,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
@@ -410,6 +412,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/radhika-singh-10/leet-code/tree/master/0070-climbing-stairs) |
@@ -457,6 +460,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/radhika-singh-10/leet-code/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/radhika-singh-10/leet-code/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
 | [0161-one-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0161-one-edit-distance) |
@@ -481,6 +485,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1909-buildings-with-an-ocean-view](https://github.com/radhika-singh-10/leet-code/tree/master/1909-buildings-with-an-ocean-view) |
 ## Topological Sort
