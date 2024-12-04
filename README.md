@@ -448,6 +448,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/radhika-singh-10/leet-code/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/radhika-singh-10/leet-code/tree/master/0328-odd-even-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
