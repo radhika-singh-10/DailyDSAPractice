@@ -127,6 +127,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2447-merge-similar-items](https://github.com/radhika-singh-10/leet-code/tree/master/2447-merge-similar-items) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
+| [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1206-corporate-flight-bookings](https://github.com/radhika-singh-10/leet-code/tree/master/1206-corporate-flight-bookings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1833-find-the-highest-altitude](https://github.com/radhika-singh-10/leet-code/tree/master/1833-find-the-highest-altitude) |
+| [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
