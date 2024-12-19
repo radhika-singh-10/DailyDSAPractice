@@ -119,6 +119,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1646-kth-missing-positive-number](https://github.com/radhika-singh-10/leet-code/tree/master/1646-kth-missing-positive-number) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/radhika-singh-10/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/radhika-singh-10/leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/radhika-singh-10/leet-code/tree/master/1833-find-the-highest-altitude) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/radhika-singh-10/leet-code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -155,6 +156,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/radhika-singh-10/leet-code/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/radhika-singh-10/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/radhika-singh-10/leet-code/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
@@ -312,6 +314,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/radhika-singh-10/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1829-maximum-units-on-a-truck](https://github.com/radhika-singh-10/leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
