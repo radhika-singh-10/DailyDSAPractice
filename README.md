@@ -143,6 +143,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/radhika-singh-10/leet-code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
@@ -185,6 +186,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
@@ -333,6 +335,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/radhika-singh-10/leet-code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0062-unique-paths) |
