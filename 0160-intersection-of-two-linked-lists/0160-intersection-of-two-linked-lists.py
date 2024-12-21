@@ -7,18 +7,8 @@
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
         #no cycles, no sorting present
-        hash_set=set()
-        cur=headA
-        while cur:
-            hash_set.add(cur)
-            cur=cur.next
-        
-        cur = headB
-        while cur:
-            if cur in hash_set:
-                return cur
-            cur=cur.next
-
-        return None
-
-        
+        temp_one,temp_two=headA,headB
+        while temp_one!=temp_two:
+            temp_one=headB if temp_one is None else temp_one.next
+            temp_two=headA if temp_two is None else temp_two.next
+        return temp_one
