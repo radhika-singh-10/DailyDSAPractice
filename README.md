@@ -192,6 +192,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/radhika-singh-10/leet-code/tree/master/0091-decode-ways) |
 | [0161-one-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0161-one-edit-distance) |
@@ -240,6 +241,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/radhika-singh-10/leet-code/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -429,6 +431,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0062-unique-paths) |
