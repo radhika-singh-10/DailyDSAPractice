@@ -87,6 +87,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/radhika-singh-10/leet-code/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/radhika-singh-10/leet-code/tree/master/0162-find-peak-element) |
@@ -247,6 +248,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0022-generate-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/radhika-singh-10/leet-code/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/radhika-singh-10/leet-code/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
@@ -546,6 +548,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/radhika-singh-10/leet-code/tree/master/0078-subsets) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 ## Union Find
 |  |
