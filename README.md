@@ -201,6 +201,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0242-valid-anagram](https://github.com/radhika-singh-10/leet-code/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
+| [0392-is-subsequence](https://github.com/radhika-singh-10/leet-code/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
 | [0408-valid-word-abbreviation](https://github.com/radhika-singh-10/leet-code/tree/master/0408-valid-word-abbreviation) |
 | [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
@@ -442,6 +443,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0198-house-robber](https://github.com/radhika-singh-10/leet-code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0213-house-robber-ii) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
+| [0392-is-subsequence](https://github.com/radhika-singh-10/leet-code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/radhika-singh-10/leet-code/tree/master/0647-palindromic-substrings) |
 ## Combinatorics
@@ -492,6 +494,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0161-one-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0161-one-edit-distance) |
 | [0202-happy-number](https://github.com/radhika-singh-10/leet-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/radhika-singh-10/leet-code/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/radhika-singh-10/leet-code/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/radhika-singh-10/leet-code/tree/master/0408-valid-word-abbreviation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/radhika-singh-10/leet-code/tree/master/0647-palindromic-substrings) |
