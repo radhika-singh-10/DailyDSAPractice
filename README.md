@@ -116,6 +116,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/radhika-singh-10/leet-code/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1127-last-stone-weight](https://github.com/radhika-singh-10/leet-code/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1206-corporate-flight-bookings](https://github.com/radhika-singh-10/leet-code/tree/master/1206-corporate-flight-bookings) |
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
@@ -397,6 +398,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
+| [1127-last-stone-weight](https://github.com/radhika-singh-10/leet-code/tree/master/1127-last-stone-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
