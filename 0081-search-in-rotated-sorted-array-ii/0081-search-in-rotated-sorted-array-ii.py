@@ -1,12 +1,16 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> bool:
         #sorted list -> rotated -> good approach - binary search
-        #edge cases-> int, negative, fraction?
+        #edge cases-> int, negative, fraction, unique?
         #no element -> false, 1 ele->check if mathces with target
         #formula- check for rotation
         #m==target->true else false
         #if m<=target -> if l<=target<=m r=m-1 else l=m+1
         #else -> if m<=target<=r->l=m+1 else r=m-1
+        #additional check -> unique or duplicate element 
+        #if present-> nums[l]==nums[m]==nums[r]:l+=1 r-=1
+
+        #time complexity- 0(nlogn), space complexity -> 0(1)
 
         #[2,5,6,0,0,1,1,2,2] target=6
         n=len(nums)
