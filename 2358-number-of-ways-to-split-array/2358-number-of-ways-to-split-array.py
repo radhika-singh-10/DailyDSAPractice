@@ -20,12 +20,11 @@ class Solution:
             rsum+=nums[i]
 
         for i in range(n-1):
-            print(i,lsum+nums[i],rsum-nums[i],lsum+nums[i]>=rsum-nums[i])
+            
             lsum+=nums[i]
             rsum-=nums[i]
             if lsum>=rsum:
-                split+=1
-                
+                split+=1 
             else:
                 continue
 
