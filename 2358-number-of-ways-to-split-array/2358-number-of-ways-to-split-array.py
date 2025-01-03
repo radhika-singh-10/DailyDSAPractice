@@ -3,9 +3,9 @@ class Solution:
         #edge cases-> 1 element -> 1 split
         #0 ->1 split
         #all unqiue values or any duplicate values?
-        #integers only?? or fractions?
+        #integers only?? or fractions? -> for fractions-> what can be consider ceil or floor or both?
         #positive numbers, negative nums, zeroes?
-        #can it be sorted or always unsorted? in case of sorted in increasing order->0 for decreasing -> n-1 where n-length of list
+        #is it sorted or always unsorted? in case of sorted in increasing order->0 for decreasing -> n-1 where n-length of list
 
         #approach
         #prefix sum can be used here
