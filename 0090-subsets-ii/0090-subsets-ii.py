@@ -18,7 +18,8 @@ class Solution:
         def backtrack(nums,res,index,temp):
             res.append(temp.copy())
             for i in range(index,n):
-                if i!=index and nums[i-1]==nums[i]:
+                #print(i,index)
+                if i!=index and  nums[i-1]==nums[i]:
                     continue
                     
                 temp.append(nums[i])
