@@ -141,6 +141,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2447-merge-similar-items](https://github.com/radhika-singh-10/leet-code/tree/master/2447-merge-similar-items) |
+| [2465-shifting-letters-ii](https://github.com/radhika-singh-10/leet-code/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/radhika-singh-10/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
 | [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
@@ -156,6 +157,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/radhika-singh-10/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2358-number-of-ways-to-split-array](https://github.com/radhika-singh-10/leet-code/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/radhika-singh-10/leet-code/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/radhika-singh-10/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
@@ -235,6 +237,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/radhika-singh-10/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/radhika-singh-10/leet-code/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2465-shifting-letters-ii](https://github.com/radhika-singh-10/leet-code/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/radhika-singh-10/leet-code/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/radhika-singh-10/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
