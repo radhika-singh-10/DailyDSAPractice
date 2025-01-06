@@ -16,22 +16,22 @@ class Solution:
         if n==1:
             return answer
 
-        prefix_count = 0
-        prefix_sum = 0
+        count = 0
+        sum = 0
         for i in range(n):
-            answer[i] = prefix_count * i - prefix_sum
+            answer[i] = count * i - sum
             if boxes[i] == '1':
-                prefix_count += 1
-                prefix_sum += i
+                count += 1
+                sum += i
         
-        suffix_count = 0
-        suffix_sum = 0
+        count = 0
+        sum = 0
 
         for i in range(n - 1, -1, -1):
-            answer[i] += suffix_sum - suffix_count * i
+            answer[i] += sum - count * i
             if boxes[i] == '1':
-                suffix_count += 1
-                suffix_sum += i
+                count += 1
+                sum += i
                 
         return answer
 
