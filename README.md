@@ -213,6 +213,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/radhika-singh-10/leet-code/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/radhika-singh-10/leet-code/tree/master/0091-decode-ways) |
@@ -260,6 +261,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/radhika-singh-10/leet-code/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/radhika-singh-10/leet-code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/radhika-singh-10/leet-code/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/radhika-singh-10/leet-code/tree/master/0326-power-of-three) |
@@ -441,6 +443,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/radhika-singh-10/leet-code/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/radhika-singh-10/leet-code/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
 | [0324-wiggle-sort-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0324-wiggle-sort-ii) |
@@ -477,6 +480,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0022-generate-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/radhika-singh-10/leet-code/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/radhika-singh-10/leet-code/tree/master/0070-climbing-stairs) |
