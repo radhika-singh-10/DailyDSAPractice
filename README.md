@@ -102,6 +102,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0238-product-of-array-except-self](https://github.com/radhika-singh-10/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
 | [0275-h-index-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/radhika-singh-10/leet-code/tree/master/0283-move-zeroes) |
@@ -250,6 +251,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0227-basic-calculator-ii) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/radhika-singh-10/leet-code/tree/master/0682-baseball-game) |
@@ -264,6 +266,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0044-wildcard-matching](https://github.com/radhika-singh-10/leet-code/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/radhika-singh-10/leet-code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/radhika-singh-10/leet-code/tree/master/0206-reverse-linked-list) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0326-power-of-three](https://github.com/radhika-singh-10/leet-code/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
 ## Backtracking
@@ -286,6 +289,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0199-binary-tree-right-side-view](https://github.com/radhika-singh-10/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -332,6 +336,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0199-binary-tree-right-side-view](https://github.com/radhika-singh-10/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -528,6 +533,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
@@ -568,6 +574,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1909-buildings-with-an-ocean-view](https://github.com/radhika-singh-10/leet-code/tree/master/1909-buildings-with-an-ocean-view) |
 ## Topological Sort
