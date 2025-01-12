@@ -166,6 +166,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/radhika-singh-10/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/radhika-singh-10/leet-code/tree/master/0036-valid-sudoku) |
@@ -212,6 +213,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/radhika-singh-10/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0020-valid-parentheses) |
@@ -514,6 +516,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/radhika-singh-10/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/radhika-singh-10/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
