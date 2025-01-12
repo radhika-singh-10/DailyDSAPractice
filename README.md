@@ -108,6 +108,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0283-move-zeroes](https://github.com/radhika-singh-10/leet-code/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0324-wiggle-sort-ii) |
 | [0346-moving-average-from-data-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0346-moving-average-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0498-diagonal-traverse](https://github.com/radhika-singh-10/leet-code/tree/master/0498-diagonal-traverse) |
@@ -176,6 +177,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0202-happy-number](https://github.com/radhika-singh-10/leet-code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/radhika-singh-10/leet-code/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0359-logger-rate-limiter](https://github.com/radhika-singh-10/leet-code/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
@@ -362,6 +364,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0324-wiggle-sort-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/radhika-singh-10/leet-code/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -380,6 +383,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/radhika-singh-10/leet-code/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
@@ -433,6 +437,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0215-kth-largest-element-in-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
+| [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
@@ -442,12 +447,14 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
@@ -638,4 +645,8 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/radhika-singh-10/leet-code/tree/master/0146-lru-cache) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
