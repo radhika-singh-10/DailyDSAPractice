@@ -304,6 +304,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0366-find-leaves-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -351,6 +352,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0366-find-leaves-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sorting
@@ -439,6 +441,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/radhika-singh-10/leet-code/tree/master/1127-last-stone-weight) |
@@ -551,6 +554,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
 ## Two Pointers
 |  |
@@ -615,6 +619,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0346-moving-average-from-data-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/radhika-singh-10/leet-code/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/radhika-singh-10/leet-code/tree/master/1023-time-based-key-value-store) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Bit Manipulation
@@ -641,6 +646,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/radhika-singh-10/leet-code/tree/master/0359-logger-rate-limiter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
