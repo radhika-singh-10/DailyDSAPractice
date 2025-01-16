@@ -6,6 +6,8 @@ class Solution:
         #[3,2,3] - freq= {3:2, 2:1} , floor(n/3)=1 freq[0]==1
 
         #tc-0(n), sc=0(n)
+        if not nums:
+            return []
         freq=Counter(nums)
         n=len(nums)
         res=[]
