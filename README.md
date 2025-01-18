@@ -281,6 +281,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/radhika-singh-10/leet-code/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/radhika-singh-10/leet-code/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/radhika-singh-10/leet-code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/radhika-singh-10/leet-code/tree/master/0206-reverse-linked-list) |
@@ -408,6 +409,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/radhika-singh-10/leet-code/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/radhika-singh-10/leet-code/tree/master/0050-powx-n) |
@@ -559,6 +561,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/radhika-singh-10/leet-code/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/radhika-singh-10/leet-code/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
