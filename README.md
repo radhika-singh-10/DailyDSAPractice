@@ -184,6 +184,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0146-lru-cache](https://github.com/radhika-singh-10/leet-code/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhika-singh-10/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/radhika-singh-10/leet-code/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/radhika-singh-10/leet-code/tree/master/0242-valid-anagram) |
@@ -238,6 +239,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0091-decode-ways](https://github.com/radhika-singh-10/leet-code/tree/master/0091-decode-ways) |
 | [0161-one-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0186-reverse-words-in-a-string-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/radhika-singh-10/leet-code/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
@@ -647,6 +649,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/radhika-singh-10/leet-code/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
 | [0346-moving-average-from-data-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/radhika-singh-10/leet-code/tree/master/0359-logger-rate-limiter) |
@@ -700,4 +703,8 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
