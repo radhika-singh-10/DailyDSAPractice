@@ -99,6 +99,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0162-find-peak-element](https://github.com/radhika-singh-10/leet-code/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/radhika-singh-10/leet-code/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0219-contains-duplicate-ii) |
@@ -158,6 +159,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/radhika-singh-10/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/radhika-singh-10/leet-code/tree/master/1046-max-consecutive-ones-iii) |
@@ -503,6 +505,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/radhika-singh-10/leet-code/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0275-h-index-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0275-h-index-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/radhika-singh-10/leet-code/tree/master/0374-guess-number-higher-or-lower) |
@@ -549,6 +552,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/radhika-singh-10/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/radhika-singh-10/leet-code/tree/master/1046-max-consecutive-ones-iii) |
