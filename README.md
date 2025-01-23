@@ -326,6 +326,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0366-find-leaves-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -376,6 +377,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0366-find-leaves-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -598,6 +600,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
+| [0450-delete-node-in-a-bst](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
