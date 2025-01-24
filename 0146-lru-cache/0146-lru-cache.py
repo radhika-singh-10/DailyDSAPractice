@@ -1,11 +1,11 @@
-from collections import deque
+from collections import OrderedDict
 class LRUCache:
     
     def __init__(self, capacity: int):
         self.capacity=capacity
         # self.cache={} #to get the frequency stored as key-value
         # self.order=deque()#to get the order 
-        self.cache=collections.OrderedDict()
+        self.cache=OrderedDict()
 
     def get(self, key: int) -> int:
         #if key is present, we move the most recently accessed to the last
