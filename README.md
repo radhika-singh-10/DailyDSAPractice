@@ -128,6 +128,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0907-koko-eating-bananas](https://github.com/radhika-singh-10/leet-code/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/radhika-singh-10/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/radhika-singh-10/leet-code/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
@@ -221,6 +222,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0212-word-search-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0212-word-search-ii) |
 | [0498-diagonal-traverse](https://github.com/radhika-singh-10/leet-code/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/0777-toeplitz-matrix) |
+| [1036-rotting-oranges](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
@@ -461,6 +463,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0339-nested-list-weight-sum) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
+| [1036-rotting-oranges](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
