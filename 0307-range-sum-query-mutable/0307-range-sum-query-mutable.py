@@ -15,7 +15,6 @@ class NumArray:
 
     def build(self, nums, l, r):
         if l == r:
-            # Leaf node
             return SegmentTree(nums[l], l, r)
         
         m = (l + r) // 2
@@ -27,7 +26,7 @@ class NumArray:
 
     def update(self, index: int, val: int) -> None:
         def updateTree(node, index, val):
-            if node.l == node.r:  # Leaf node
+            if node.l == node.r:  
                 node.sum = val
                 return
             
@@ -36,8 +35,6 @@ class NumArray:
                 updateTree(node.left, index, val)
             else:
                 updateTree(node.right, index, val)
-            
-            # Update the sum of the current node
             node.sum = node.left.sum + node.right.sum
 
         updateTree(self.root, index, val)
