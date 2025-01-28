@@ -113,6 +113,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
 | [0275-h-index-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/radhika-singh-10/leet-code/tree/master/0283-move-zeroes) |
+| [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0324-wiggle-sort-ii) |
 | [0346-moving-average-from-data-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
@@ -682,6 +683,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
+| [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
 | [0346-moving-average-from-data-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/radhika-singh-10/leet-code/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -742,4 +744,12 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0212-word-search-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
