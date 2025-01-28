@@ -1,5 +1,5 @@
 from typing import List
-
+#neetcode logic - https://neetcode.io/courses/advanced-algorithms/8
 class SegmentTree:
     def __init__(self, total, l, r):
         self.sum = total
