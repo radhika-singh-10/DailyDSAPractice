@@ -272,6 +272,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1274-number-of-days-between-two-dates](https://github.com/radhika-singh-10/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/radhika-singh-10/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/radhika-singh-10/leet-code/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -456,6 +457,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
 | [1274-number-of-days-between-two-dates](https://github.com/radhika-singh-10/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/radhika-singh-10/leet-code/tree/master/2383-add-two-integers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/radhika-singh-10/leet-code/tree/master/2610-closest-prime-numbers-in-range) |
