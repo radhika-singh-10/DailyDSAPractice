@@ -290,6 +290,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0020-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
@@ -334,6 +335,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/radhika-singh-10/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -388,6 +390,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/radhika-singh-10/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -627,6 +630,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
@@ -698,6 +702,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/radhika-singh-10/leet-code/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
@@ -775,4 +780,8 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
