@@ -119,6 +119,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0435-non-overlapping-intervals) |
+| [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [0498-diagonal-traverse](https://github.com/radhika-singh-10/leet-code/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/radhika-singh-10/leet-code/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -323,6 +324,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0090-subsets-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
+| [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
@@ -580,6 +582,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
 | [0392-is-subsequence](https://github.com/radhika-singh-10/leet-code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0435-non-overlapping-intervals) |
+| [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [0647-palindromic-substrings](https://github.com/radhika-singh-10/leet-code/tree/master/0647-palindromic-substrings) |
 ## Combinatorics
 |  |
@@ -712,6 +715,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0078-subsets](https://github.com/radhika-singh-10/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0090-subsets-ii) |
+| [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/radhika-singh-10/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Union Find
@@ -767,4 +771,8 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
+## Bitmask
+|  |
+| ------- |
+| [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 <!---LeetCode Topics End-->
