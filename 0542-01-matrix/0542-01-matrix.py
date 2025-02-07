@@ -1,6 +1,6 @@
 class Solution:
     def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
-        #dfs
+        #bfs
         #n2 - tc, sc
         dirs=[[-1,0],[0,-1],[1,0],[0,1]]
         n,m=len(mat),len(mat[0])
