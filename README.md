@@ -631,6 +631,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0002-add-two-numbers](https://github.com/radhika-singh-10/leet-code/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/radhika-singh-10/leet-code/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -662,6 +663,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0031-next-permutation](https://github.com/radhika-singh-10/leet-code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/radhika-singh-10/leet-code/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhika-singh-10/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
