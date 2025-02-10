@@ -1,0 +1,20 @@
+
+class Solution:
+    def sortMatrix(self, grid: List[List[int]]) -> List[List[int]]:
+        hm,n=defaultdict(list),len(grid)
+        for i in range(n):
+            for j in range(n):
+                if i-j>=0:
+                    heappush(hm[i-j],-grid[i][j])
+                else:
+                    heappush(hm[i-j],grid[i][j])
+
+        for i in range(n):
+            for j in range(n):
+                if i-j>=0:
+                    grid[i][j]=-heappop(hm[i-j])
+                else:
+                    grid[i][j]=heappop(hm[i-j])
+        return grid
+                
+
