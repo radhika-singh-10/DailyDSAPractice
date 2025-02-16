@@ -155,6 +155,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2358-number-of-ways-to-split-array](https://github.com/radhika-singh-10/leet-code/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
@@ -334,6 +335,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0212-word-search-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
@@ -479,6 +481,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/radhika-singh-10/leet-code/tree/master/2383-add-two-integers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/radhika-singh-10/leet-code/tree/master/2610-closest-prime-numbers-in-range) |
 ## Breadth-First Search
@@ -606,6 +609,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue
 |  |
 | ------- |
@@ -739,6 +743,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0090-subsets-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0090-subsets-ii) |
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/radhika-singh-10/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Union Find
 |  |
@@ -803,4 +808,8 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0173-binary-search-tree-iterator) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
