@@ -13,10 +13,9 @@ class Solution:
         #backtrack_subset(i,total,temp)
 
         def backtrack_subset(i,total,temp):
-            if len(temp) == k:
-                if total == n:
+            if len(temp) == k and total == n:
                     res.add(tuple(temp[:]))
-                return
+                    return
 
             for i in range(i,10):
                 if total+i>n:
