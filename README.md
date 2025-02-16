@@ -84,6 +84,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0036-valid-sudoku](https://github.com/radhika-singh-10/leet-code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0053-maximum-subarray) |
@@ -329,6 +330,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/radhika-singh-10/leet-code/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/radhika-singh-10/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0090-subsets-ii) |
@@ -421,6 +423,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
