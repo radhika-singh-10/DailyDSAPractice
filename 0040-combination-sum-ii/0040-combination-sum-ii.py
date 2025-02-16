@@ -11,6 +11,8 @@ class Solution:
             temp.append(candidates[i])
             generate_combinations(i+1,total+candidates[i],temp)
             temp.pop()
+            #optimal - else timit limit exceed 
+            #check for same value->present then increment
             while i + 1 < len(candidates) and candidates[i] == candidates[i+1]:
                 i += 1
             generate_combinations(i+1,total,temp)
