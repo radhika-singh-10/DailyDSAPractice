@@ -14,13 +14,12 @@ class Solution:
 
         def backtrack_subset(i,total,temp):
             if len(temp) == k and total == n:
-                    res.add(tuple(temp[:]))
-                    return
+                res.add(tuple(temp[:]))
+                return
 
             for i in range(i,10):
                 if total+i>n:
                     return 
-
                 temp.append(i) 
                 backtrack_subset(i+1,total+i,temp)
                 temp.pop()
