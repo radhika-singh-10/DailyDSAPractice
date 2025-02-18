@@ -7,6 +7,7 @@
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
         #no cycles, no sorting present
+        #similar to lowest common ancestor for binary tree
         temp_one,temp_two=headA,headB
         while temp_one!=temp_two:
             temp_one=headB if temp_one is None else temp_one.next
