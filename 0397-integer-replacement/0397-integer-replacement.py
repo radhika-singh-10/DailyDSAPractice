@@ -1,6 +1,10 @@
+from functools import lru_cache
+
 class Solution:
     def integerReplacement(self, n: int) -> int:
-        
+        @lru_cache(None)
+        #time complexity will be o(logn) else it was 0(n)
+        #space complexity will be 0(logn)
         def divide(num):
             if num==1:
                 return 0
