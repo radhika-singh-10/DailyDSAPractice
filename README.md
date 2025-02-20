@@ -564,6 +564,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0316-remove-duplicate-letters](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/radhika-singh-10/leet-code/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -615,6 +616,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
 | [0376-wiggle-subsequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/radhika-singh-10/leet-code/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [0542-01-matrix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0542-01-matrix) |
@@ -757,6 +759,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0078-subsets](https://github.com/radhika-singh-10/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0090-subsets-ii) |
+| [0397-integer-replacement](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0397-integer-replacement) |
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -774,6 +777,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/radhika-singh-10/leet-code/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0397-integer-replacement) |
 ## Data Stream
 |  |
 | ------- |
