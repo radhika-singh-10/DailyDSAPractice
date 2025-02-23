@@ -5,7 +5,7 @@ class Solution:
         while i<len(prices):
             if prices[i]>prices[i-1] : 
                 profit+=prices[i]-prices[i-1]
-                print(profit,prices[i]-prices[i-1])
+                #print(profit,prices[i]-prices[i-1])
             i=i+1
         # n,valley,peak=len(prices),prices[0],prices[0]
         # while i<n-1:
