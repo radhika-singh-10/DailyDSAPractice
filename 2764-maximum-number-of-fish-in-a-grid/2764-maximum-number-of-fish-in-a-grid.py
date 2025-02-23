@@ -1,29 +1,30 @@
-from collections import deque
+# from collections import deque
 class Solution:
     def findMaxFish(self, grid: List[List[int]]) -> int:
-        res=0
-        dirs=[[1,0],[0,1],[-1,0],[0,-1]]
-        m,n=len(grid),len(grid[0])
-        land,queue=[[False]*n for _ in range(m)],deque()
-        def dfs(r,c):
-            if r < 0 or r >= m or c < 0 or c >= n or grid[r][c] == 0 or land[r][c]:
-                return 0
-            land[r][c]=True
-            return (grid[r][c] +
-                    dfs(r - 1, c) +
-                    dfs(r + 1, c) +
-                    dfs(r, c - 1) +
-                    dfs(r, c + 1))
-
-
+        res = 0
+        dirs = [[1, 0], [0, 1], [-1, 0], [0, -1]]
+        m, n = len(grid), len(grid[0])
+        visited = set() 
+        
+        def bfs(r, c):
+            queue = deque()
+            queue.append((r, c))
+            visited.add((r, c))
+            fish_count = 0
+            
+            while queue:
+                x, y = queue.popleft()
+                fish_count += grid[x][y]
+                for dx, dy in dirs:
+                    rx, ry = x + dx, y + dy  
+                    if 0 <= rx < m and 0 <= ry < n and grid[rx][ry] > 0 and (rx, ry) not in visited:
+                        queue.append((rx, ry))
+                        visited.add((rx, ry))
+            return fish_count
+        
         for i in range(m):
             for j in range(n):
-                if grid[i][j]>0 and not land[i][j]:
-                    #apply dfs and compare the maximum fish collected from that location to the next location where grid[r][c]>0
+                if grid[i][j] > 0 and (i, j) not in visited:
+                    res = max(res, bfs(i, j))
                     
-                    res=max(res,dfs(i,j))
-
         return res
-                    
-
-            
