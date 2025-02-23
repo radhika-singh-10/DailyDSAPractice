@@ -170,6 +170,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2447-merge-similar-items](https://github.com/radhika-singh-10/leet-code/tree/master/2447-merge-similar-items) |
 | [2465-shifting-letters-ii](https://github.com/radhika-singh-10/leet-code/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/radhika-singh-10/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/radhika-singh-10/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
@@ -244,6 +245,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1036-rotting-oranges](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -404,6 +406,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -518,6 +521,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Ordered Set
 |  |
 | ------- |
@@ -774,6 +778,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Randomized
 |  |
 | ------- |
