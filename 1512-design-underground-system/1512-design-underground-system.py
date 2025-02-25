@@ -1,8 +1,7 @@
 class UndergroundSystem:
 
     def __init__(self):
-        #station name dict - [customer id, time]
-        #customer dict - []
+        #station dict customer id - [name, time]
         self.station=collections.defaultdict(lambda : [0, 0])
 
     def checkIn(self, id: int, stationName: str, t: int) -> None:
