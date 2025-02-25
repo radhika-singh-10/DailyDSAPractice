@@ -16,6 +16,8 @@ class Solution:
         heap = []
         for x in range(lo, hi+1):
             heapq.heappush(heap, (-powerCalculation(x), -x))
+            
             if len(heap) > k:
                 heapq.heappop(heap)
         return -heap[0][1]
+        #return -heap[k-1][1]
