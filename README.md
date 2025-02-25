@@ -464,6 +464,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
 | [1272-invalid-transactions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1272-invalid-transactions) |
+| [1488-sort-integers-by-the-power-value](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1488-sort-integers-by-the-power-value) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/radhika-singh-10/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1829-maximum-units-on-a-truck](https://github.com/radhika-singh-10/leet-code/tree/master/1829-maximum-units-on-a-truck) |
@@ -638,6 +639,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [0542-01-matrix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/radhika-singh-10/leet-code/tree/master/0647-palindromic-substrings) |
+| [1488-sort-integers-by-the-power-value](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1488-sort-integers-by-the-power-value) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 ## Combinatorics
@@ -800,6 +802,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0070-climbing-stairs](https://github.com/radhika-singh-10/leet-code/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0397-integer-replacement) |
+| [1488-sort-integers-by-the-power-value](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1488-sort-integers-by-the-power-value) |
 ## Data Stream
 |  |
 | ------- |
