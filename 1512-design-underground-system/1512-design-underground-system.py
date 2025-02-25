@@ -6,7 +6,8 @@ class UndergroundSystem:
 
         #name,id = remove by id
         #checkin - startstation ,t (append)
-        #checkout - endStation ,
+        #checkout - (startStation,endStation) - time, count
+        #counter - calculating total no of trip count
 
     def checkIn(self, id: int, stationName: str, t: int) -> None:
         self.station[id]=[stationName,t]
