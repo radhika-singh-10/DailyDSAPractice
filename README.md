@@ -223,6 +223,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1023-time-based-key-value-store](https://github.com/radhika-singh-10/leet-code/tree/master/1023-time-based-key-value-store) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/radhika-singh-10/leet-code/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
+| [1512-design-underground-system](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1512-design-underground-system) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/radhika-singh-10/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
@@ -295,6 +296,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1274-number-of-days-between-two-dates](https://github.com/radhika-singh-10/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1512-design-underground-system](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1512-design-underground-system) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/radhika-singh-10/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -765,6 +767,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0460-lfu-cache](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/radhika-singh-10/leet-code/tree/master/1023-time-based-key-value-store) |
+| [1512-design-underground-system](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Bit Manipulation
