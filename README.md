@@ -370,6 +370,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0199-binary-tree-right-side-view](https://github.com/radhika-singh-10/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
@@ -399,6 +400,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0211-design-add-and-search-words-data-structure](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -427,6 +429,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0199-binary-tree-right-side-view](https://github.com/radhika-singh-10/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
