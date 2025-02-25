@@ -6,31 +6,21 @@ class Solution:
         #if amt>1000: add info to invalid_transaction
         #check for name -> for 2 diff city exist, and time is less than 60
 
-        parsed_transactions = []    
-        for i, t in enumerate(transactions):
-            name, time, amount, city = t.split(",")
-            parsed_transactions.append((name, int(time), int(amount), city, i))
-
-        invalid_set = set()
-        transactions_by_name = collections.defaultdict(list)
-
-        for name, time, amount, city, index in parsed_transactions:
-            transactions_by_name[name].append((time, amount, city, index))
-            if amount > 1000:
-                invalid_set.add(index)
-        for name, records in transactions_by_name.items():
-            records.sort()  
-            for i in range(len(records)):
-                for j in range(i + 1, len(records)):
-                    t1, _, c1, idx1 = records[i]
-                    t2, _, c2, idx2 = records[j]
-                    if abs(t1 - t2) > 60:
-                        break  
-                    if c1 != c2:
-                        invalid_set.add(idx1)
-                        invalid_set.add(idx2)
-
-        return [transactions[i] for i in invalid_set]
+        invalid = []
+        
+        for i, t1 in enumerate(transactions):
+            name1, time1, amount1, city1 = t1.split(',')
+            if int(amount1) > 1000:
+                invalid.append(t1)
+                continue
+            for j, t2 in enumerate(transactions):
+                if i != j: 
+                    name2, time2, amount2, city2 = t2.split(',')
+                    if name1 == name2 and city1 != city2 and abs(int(time1) - int(time2)) <= 60:
+                        invalid.append(t1)
+                        break
+        
+        return invalid
 
 
         # invalid_transaction,transaction_hist=[],collections.defaultdict(lambda:["",0,0])
