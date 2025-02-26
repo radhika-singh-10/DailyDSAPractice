@@ -135,6 +135,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/radhika-singh-10/leet-code/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/radhika-singh-10/leet-code/tree/master/0735-asteroid-collision) |
 | [0777-toeplitz-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0907-koko-eating-bananas](https://github.com/radhika-singh-10/leet-code/tree/master/0907-koko-eating-bananas) |
@@ -185,6 +186,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0209-minimum-size-subarray-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/radhika-singh-10/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
+| [0724-find-pivot-index](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/radhika-singh-10/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/radhika-singh-10/leet-code/tree/master/1206-corporate-flight-bookings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
