@@ -389,6 +389,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0784-insert-into-a-binary-search-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -417,6 +418,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0545-boundary-of-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0545-boundary-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -450,6 +452,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0784-insert-into-a-binary-search-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sorting
@@ -538,6 +541,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0550-shortest-path-to-get-food](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0550-shortest-path-to-get-food) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [1036-rotting-oranges](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1036-rotting-oranges) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
