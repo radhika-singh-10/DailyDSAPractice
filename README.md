@@ -333,6 +333,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 | [1909-buildings-with-an-ocean-view](https://github.com/radhika-singh-10/leet-code/tree/master/1909-buildings-with-an-ocean-view) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -704,6 +705,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0908-middle-of-the-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -741,6 +743,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0908-middle-of-the-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Graph
 |  |
 | ------- |
