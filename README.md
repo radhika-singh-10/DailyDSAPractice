@@ -294,6 +294,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0408-valid-word-abbreviation](https://github.com/radhika-singh-10/leet-code/tree/master/0408-valid-word-abbreviation) |
 | [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/radhika-singh-10/leet-code/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
 | [0851-goat-latin](https://github.com/radhika-singh-10/leet-code/tree/master/0851-goat-latin) |
@@ -604,6 +605,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0561-array-partition](https://github.com/radhika-singh-10/leet-code/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [1829-maximum-units-on-a-truck](https://github.com/radhika-singh-10/leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
@@ -671,6 +673,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0346-moving-average-from-data-stream) |
+| [0649-dota2-senate](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0649-dota2-senate) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
