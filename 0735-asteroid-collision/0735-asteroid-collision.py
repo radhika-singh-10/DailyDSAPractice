@@ -3,20 +3,30 @@ from collections import deque
 #else append(i)
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
-        res = []
+        #one astreoids- return the eleme
+        #more than one
+        #- push into a stack, and get the top two elems 
+        # i. if prod>0 -> same direction-no hcange
+        # ii. elif prod<0 -> if the abs(val) same, pop both 
+        #                 -> else remove the smaller elem (abs val)
 
-        for i in asteroids:
-            while res and i*res[-1]<0 and i<0:
-                if abs(i) > res[-1]:
-                    res.pop()
+
+        stack = []
+
+        for asteroid in asteroids:
+            flag=True
+            while stack and asteroid*stack[-1]<0 and asteroid<0:
+                if abs(asteroid) > stack[-1]:
+                    stack.pop()
                     continue
-                elif abs(i) == res[-1]:
-                    res.pop()
+                elif abs(asteroid) == stack[-1]:
+                    stack.pop()
+                flag=False
                 break
-            else:
-                res.append(i)
+            if flag:
+                stack.append(asteroid)
 
-        return res
+        return stack
 
 
 
