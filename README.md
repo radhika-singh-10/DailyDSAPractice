@@ -420,6 +420,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0543-diameter-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0545-boundary-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
@@ -544,6 +545,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0542-01-matrix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0550-shortest-path-to-get-food) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -757,6 +759,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0210-course-schedule-ii) |
+| [0871-keys-and-rooms](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0871-keys-and-rooms) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
