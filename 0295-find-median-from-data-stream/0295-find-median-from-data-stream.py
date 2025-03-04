@@ -9,10 +9,17 @@ class MedianFinder:
     def addNum(self, num: int) -> None:
         #append the number in the list
         #self.numList.append(num)
+
+        #approach-o(logn)
+        #All the numbers in the max-heap are smaller or equal to the top element of the max-heap (let's call it x)
+        #All the numbers in the min-heap are larger or equal to the top element of the min-heap (let's call it y)
+
         if len(self.minHeap)==len(self.maxHeap):
             heapq.heappush(self.maxHeap,-heapq.heappushpop(self.minHeap,-num))
+            print(num,self.minHeap,self.maxHeap)
         else:
             heapq.heappush(self.minHeap,-heapq.heappushpop(self.maxHeap,num))
+            print(num,self.minHeap,self.maxHeap)
         
 
     def findMedian(self) -> float:
