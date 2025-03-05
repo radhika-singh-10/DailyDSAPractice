@@ -26,7 +26,8 @@ class Solution:
             new_tail = new_tail.next
         
         new_head = new_tail.next
-        new_tail.next = None
         tail.next = head
+        new_tail.next = None
+        
         
         return new_head
