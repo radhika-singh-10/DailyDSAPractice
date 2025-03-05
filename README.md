@@ -92,6 +92,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0053-maximum-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/radhika-singh-10/leet-code/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
@@ -210,6 +211,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/radhika-singh-10/leet-code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/radhika-singh-10/leet-code/tree/master/0146-lru-cache) |
@@ -247,6 +249,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0036-valid-sudoku](https://github.com/radhika-singh-10/leet-code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0212-word-search-ii) |
