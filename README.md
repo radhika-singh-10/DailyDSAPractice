@@ -104,6 +104,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/radhika-singh-10/leet-code/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/radhika-singh-10/leet-code/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0209-minimum-size-subarray-sum) |
@@ -626,6 +627,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/radhika-singh-10/leet-code/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0275-h-index-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0275-h-index-ii) |
@@ -743,6 +745,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0151-reverse-words-in-a-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhika-singh-10/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0161-one-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0161-one-edit-distance) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0202-happy-number](https://github.com/radhika-singh-10/leet-code/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
