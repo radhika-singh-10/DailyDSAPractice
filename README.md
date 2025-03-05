@@ -80,6 +80,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0001-two-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/radhika-singh-10/leet-code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/radhika-singh-10/leet-code/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/radhika-singh-10/leet-code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0039-combination-sum) |
@@ -464,6 +465,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0056-merge-intervals) |
@@ -736,6 +738,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/radhika-singh-10/leet-code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/radhika-singh-10/leet-code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/radhika-singh-10/leet-code/tree/master/0061-rotate-list) |
