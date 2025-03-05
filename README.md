@@ -280,6 +280,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/radhika-singh-10/leet-code/tree/master/0091-decode-ways) |
+| [0151-reverse-words-in-a-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0161-one-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
@@ -739,6 +740,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhika-singh-10/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0161-one-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0186-reverse-words-in-a-string-ii) |
