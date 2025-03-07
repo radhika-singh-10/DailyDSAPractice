@@ -7,7 +7,7 @@ class Solution:
         i,counter=0,1
         for ch in s:
             res[i].append(ch)
-            print(i,counter,ch)
+            #print(i,counter,ch)
             if i==0:
                 counter=1
             elif i==numRows-1:
