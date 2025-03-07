@@ -44,13 +44,17 @@ class Solution:
                     node=node.left
                     
             return boundary[::-1]
-    
+
+        leaf=set()
         def getLeaves(node):
             if not node:
                 return []
             if isLeafNode(node):
+                #leaf.add(node.val)
+                #return list(leaf)
                 return [node.val]
             return getLeaves(node.left) + getLeaves(node.right)
+            # return list(list(getLeaves(node.left)) + list(getLeaves(node.right)))
         
         left_boundary = getLeftBoundary(root.left) if root.left else []
         right_boundary = getRightBoundary(root.right) if root else []
