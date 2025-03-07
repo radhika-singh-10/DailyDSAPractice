@@ -277,6 +277,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/radhika-singh-10/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0020-valid-parentheses) |
