@@ -426,6 +426,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0366-find-leaves-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0545-boundary-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0547-number-of-provinces) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
@@ -551,6 +552,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0339-nested-list-weight-sum) |
 | [0542-01-matrix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0547-number-of-provinces) |
 | [0550-shortest-path-to-get-food](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0550-shortest-path-to-get-food) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0871-keys-and-rooms) |
@@ -771,6 +773,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0871-keys-and-rooms) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
@@ -841,6 +844,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0130-surrounded-regions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0547-number-of-provinces) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Randomized
