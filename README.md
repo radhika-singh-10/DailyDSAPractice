@@ -123,6 +123,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
 | [0275-h-index-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/radhika-singh-10/leet-code/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0289-game-of-life) |
 | [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0324-wiggle-sort-ii) |
 | [0346-moving-average-from-data-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0346-moving-average-from-data-stream) |
@@ -253,6 +254,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0130-surrounded-regions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0212-word-search-ii) |
+| [0289-game-of-life](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/radhika-singh-10/leet-code/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0550-shortest-path-to-get-food) |
@@ -264,6 +266,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/radhika-singh-10/leet-code/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/radhika-singh-10/leet-code/tree/master/0682-baseball-game) |
