@@ -156,6 +156,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1206-corporate-flight-bookings](https://github.com/radhika-singh-10/leet-code/tree/master/1206-corporate-flight-bookings) |
 | [1272-invalid-transactions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1272-invalid-transactions) |
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
+| [1374-leftmost-column-with-at-least-a-one](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -261,6 +262,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0777-toeplitz-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/0777-toeplitz-matrix) |
 | [1036-rotting-oranges](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1374-leftmost-column-with-at-least-a-one](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
@@ -652,6 +654,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1023-time-based-key-value-store](https://github.com/radhika-singh-10/leet-code/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/radhika-singh-10/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1374-leftmost-column-with-at-least-a-one](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1646-kth-missing-positive-number](https://github.com/radhika-singh-10/leet-code/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/radhika-singh-10/leet-code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -659,6 +662,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/radhika-singh-10/leet-code/tree/master/0374-guess-number-higher-or-lower) |
+| [1374-leftmost-column-with-at-least-a-one](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1374-leftmost-column-with-at-least-a-one) |
 ## Dynamic Programming
 |  |
 | ------- |
