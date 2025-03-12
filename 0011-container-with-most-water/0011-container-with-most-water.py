@@ -6,7 +6,7 @@ class Solution:
         #edge cases->height==1->height[0]
         #any 0-> l=l+1
         #only positive number? no negative or 0 or decimal
-        #what if - all the 
+        #what if - all the container height is same
         if len(height)==1:
             return height[0]
         res,l,r,max_area=0,0,len(height)-1,0
