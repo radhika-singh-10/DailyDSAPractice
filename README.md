@@ -177,6 +177,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2358-number-of-ways-to-split-array](https://github.com/radhika-singh-10/leet-code/tree/master/2358-number-of-ways-to-split-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2447-merge-similar-items](https://github.com/radhika-singh-10/leet-code/tree/master/2447-merge-similar-items) |
@@ -514,6 +515,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2447-merge-similar-items](https://github.com/radhika-singh-10/leet-code/tree/master/2447-merge-similar-items) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
@@ -667,6 +669,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1646-kth-missing-positive-number](https://github.com/radhika-singh-10/leet-code/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/radhika-singh-10/leet-code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
@@ -793,6 +796,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Graph
 |  |
 | ------- |
