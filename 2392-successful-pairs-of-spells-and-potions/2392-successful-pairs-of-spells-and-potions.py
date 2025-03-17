@@ -6,7 +6,6 @@ class Solution:
         for i in range(n1):
             spell = spells[i]
             l,r=0,n2-1
-            
             while l<=r:
                 m=l+(r-l)//2
                 product = spell * potions[m]
