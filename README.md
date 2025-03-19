@@ -141,6 +141,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/radhika-singh-10/leet-code/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0724-find-pivot-index) |
@@ -725,6 +726,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0209-minimum-size-subarray-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/radhika-singh-10/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
