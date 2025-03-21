@@ -288,6 +288,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/radhika-singh-10/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0020-valid-parentheses) |
@@ -363,6 +364,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/radhika-singh-10/leet-code/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/radhika-singh-10/leet-code/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/radhika-singh-10/leet-code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/radhika-singh-10/leet-code/tree/master/0206-reverse-linked-list) |
@@ -680,6 +682,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/radhika-singh-10/leet-code/tree/master/0044-wildcard-matching) |
