@@ -9,6 +9,8 @@ class Node:
 
 class Solution:
     def treeToDoublyList(self, root: 'Optional[Node]') -> 'Optional[Node]':
+        #meta interview question - 21st november 2024 - reject
+        #modification - bt - logic same
         def dfs(node):
             if not node:
                 return 
