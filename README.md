@@ -353,6 +353,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/radhika-singh-10/leet-code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/radhika-singh-10/leet-code/tree/master/0735-asteroid-collision) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/radhika-singh-10/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
@@ -413,6 +414,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0545-boundary-of-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0545-boundary-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
@@ -446,6 +448,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0547-number-of-provinces](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0547-number-of-provinces) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0871-keys-and-rooms](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -480,6 +483,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0545-boundary-of-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0545-boundary-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
@@ -755,6 +759,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0237-delete-node-in-a-linked-list](https://github.com/radhika-singh-10/leet-code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/radhika-singh-10/leet-code/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0460-lfu-cache) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -769,6 +774,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
 | [0450-delete-node-in-a-bst](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0450-delete-node-in-a-bst) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
@@ -905,6 +911,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0146-lru-cache](https://github.com/radhika-singh-10/leet-code/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0460-lfu-cache) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 ## Bucket Sort
 |  |
