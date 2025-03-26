@@ -15,7 +15,7 @@ class Solution:
             return None
         elif node.right:
             node=node.right
-            while node and node.left:
+            while node.left:
                 node=node.left
             return node
         while node.parent and node==node.parent.right:
