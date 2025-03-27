@@ -236,6 +236,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0460-lfu-cache](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
+| [0782-jewels-and-stones](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0782-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/radhika-singh-10/leet-code/tree/master/1023-time-based-key-value-store) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/radhika-singh-10/leet-code/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
@@ -318,6 +319,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0649-dota2-senate](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
+| [0782-jewels-and-stones](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/radhika-singh-10/leet-code/tree/master/0851-goat-latin) |
 | [1023-time-based-key-value-store](https://github.com/radhika-singh-10/leet-code/tree/master/1023-time-based-key-value-store) |
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
