@@ -8,6 +8,8 @@ class Solution:
             hr_spent=0
             for pile in piles:
                 hr_spent+=math.ceil(pile/m)
+            #if koko can finish eating in h, she can finish eating in h+1
+            #else she cant finsih eating h-1 
             if hr_spent<=h:
                 r=m
             else:
