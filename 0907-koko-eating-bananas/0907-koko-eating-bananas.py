@@ -3,14 +3,13 @@ class Solution:
         l,r=1,max(piles)
         while l<r:
             m=(l+r)//2
-            hr_sp=0
+            hr_spent=0
             for pile in piles:
-                hr_sp+=math.ceil(pile/m)
-            if hr_sp<=h:
+                hr_spent+=math.ceil(pile/m)
+            if hr_spent<=h:
                 r=m
             else:
                 l=m+1
-
         return r
 
         
