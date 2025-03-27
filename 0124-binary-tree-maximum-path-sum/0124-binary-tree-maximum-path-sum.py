@@ -17,8 +17,8 @@ class Solution:
             #     cur_sum=0
             # elif node.val+cur_sum>cur_sum:
             #     cur_sum+=node.val
-            left_sum=max(0,dfs(node.left))
-            right_sum=max(0,dfs(node.right))
+            
+            left_sum,right_sum=max(0,dfs(node.left)),max(0,dfs(node.right))
             res=max(res,left_sum+right_sum+node.val)
             return max(left_sum+node.val,right_sum+node.val)
             #res=max(res,node.val+dfs(node.left,cur_sum)+dfs(node.right,cur_sum))
