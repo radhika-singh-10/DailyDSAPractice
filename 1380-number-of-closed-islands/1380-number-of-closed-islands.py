@@ -1,7 +1,7 @@
 class Solution:
     def closedIsland(self, grid: List[List[int]]) -> int:
+        #mock interview question for inteviewing.io - didnt consider is_True logic in the exam
         n,m=len(grid),len(grid[0])
-        
         res,visited=0,set()
         dirs=[[0,1],[1,0],[0,-1],[-1,0]]
         
