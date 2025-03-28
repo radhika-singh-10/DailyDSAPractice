@@ -1,6 +1,8 @@
 from collections import deque
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
+  
+
         if not heights or not heights[0]:
             return []
 
@@ -28,8 +30,4 @@ class Solution:
         atlantic_reachable = bfs(atlantic_starts)
 
         return list(pacific_reachable & atlantic_reachable)
-
-
-
-
 
