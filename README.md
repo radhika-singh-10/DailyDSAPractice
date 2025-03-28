@@ -163,6 +163,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1272-invalid-transactions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1272-invalid-transactions) |
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1374-leftmost-column-with-at-least-a-one) |
+| [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -272,6 +273,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1036-rotting-oranges](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1374-leftmost-column-with-at-least-a-one) |
+| [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
@@ -462,6 +464,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
+| [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
@@ -598,6 +601,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
+| [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -902,6 +906,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0130-surrounded-regions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0547-number-of-provinces) |
+| [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Randomized
