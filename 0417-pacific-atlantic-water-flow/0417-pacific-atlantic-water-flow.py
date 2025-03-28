@@ -1,8 +1,7 @@
 from collections import deque
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
-  
-
+        #tik tok potential questions for oa round
         if not heights or not heights[0]:
             return []
 
