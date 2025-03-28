@@ -10,15 +10,33 @@ class Solution:
         res,queue=[],deque([root])
         if not root:
             return res
-        
+
         while queue:
-            right_node=None
             for i in range(len(queue)):
-                cur=queue.popleft()
-                if cur:
-                    right_node=cur
-                    queue.append(cur.left)
-                    queue.append(cur.right)
-            if right_node:
-                res.append(right_node.val)
+                node=queue.popleft()
+                if i==0:
+                    res.append(node.val)
+                if node.right:
+                    queue.append(node.right)
+                if node.left:
+                    queue.append(node.left)
+
         return res
+
+            
+
+
+        #res,queue=[],deque([root])
+        #if not root:
+        #  return res
+        # while queue:
+        #     right_node=None
+        #     for i in range(len(queue)):
+        #         cur=queue.popleft()
+        #         if cur:
+        #             right_node=cur
+        #             queue.append(cur.left)
+        #             queue.append(cur.right)
+        #     if right_node:
+        #         res.append(right_node.val)
+        # return res
