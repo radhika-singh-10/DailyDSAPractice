@@ -148,6 +148,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/radhika-singh-10/leet-code/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0907-koko-eating-bananas](https://github.com/radhika-singh-10/leet-code/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
@@ -730,6 +731,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [0542-01-matrix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/radhika-singh-10/leet-code/tree/master/0647-palindromic-substrings) |
+| [0747-min-cost-climbing-stairs](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1488-sort-integers-by-the-power-value](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1488-sort-integers-by-the-power-value) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
