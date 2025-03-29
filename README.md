@@ -982,5 +982,6 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1204-new-users-daily-count](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1204-new-users-daily-count) |
 | [1258-article-views-i](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [2087-confirmation-rate](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2087-confirmation-rate) |
 | [3285-manager-of-the-largest-department](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/3285-manager-of-the-largest-department) |
 <!---LeetCode Topics End-->
