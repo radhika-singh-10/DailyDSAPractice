@@ -975,4 +975,8 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
