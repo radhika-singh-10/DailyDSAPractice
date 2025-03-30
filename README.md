@@ -152,6 +152,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0747-min-cost-climbing-stairs](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0907-koko-eating-bananas](https://github.com/radhika-singh-10/leet-code/tree/master/0907-koko-eating-bananas) |
+| [0932-monotonic-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1036-rotting-oranges) |
