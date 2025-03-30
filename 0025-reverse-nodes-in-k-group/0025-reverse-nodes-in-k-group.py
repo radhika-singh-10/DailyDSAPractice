@@ -22,14 +22,23 @@ class Solution:
         #head=self.reverseLinkedList(head)
         #take a counter and pass offset and offset+kth node
         #apply reverse logic there
-        temp,offset=head,0
-        while offset<k and temp:
-            offset+=1
-            temp=temp.next
-        if offset==k:
-            revHead=self.reverseLinkedList(head,k)
-            head.next=self.reverseKGroup(temp,k)
-            return revHead
+        temp,offset,newHead,tail=head,0,None,None
+        while temp:
+            offset=0
+            temp=head
+            while offset<k and temp:
+                temp=temp.next
+                offset+=1
+            if offset==k:
+                revHead=self.reverseLinkedList(head,k)
+                if not newHead:
+                    newHead = revHead
+                if tail:
+                    tail.next=revHead
+                tail=head
+                head=temp
+        if tail:
+            tail.next=head        
 
-        return head
+        return newHead if newHead else head
         
