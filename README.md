@@ -299,6 +299,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0006-zigzag-conversion](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0022-generate-parentheses) |
@@ -964,6 +965,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0212-word-search-ii) |
