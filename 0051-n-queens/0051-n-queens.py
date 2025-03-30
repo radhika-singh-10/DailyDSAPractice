@@ -2,7 +2,7 @@ class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         #same row-i, col-j, diagonal-i+j, antidiagonal-i-j
         #we will apply backtracking
-        # grid=[['.']*n for _ in range(n)]
+        # we will check col by col  not row by row
         res=[]
         def backtrackCheck(row,rowSet,colSet,diagonalSet,antiDiagonalSet,board):
             if row==n:
