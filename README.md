@@ -121,6 +121,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0229-majority-element-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/radhika-singh-10/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
@@ -268,6 +269,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0130-surrounded-regions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0212-word-search-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/radhika-singh-10/leet-code/tree/master/0498-diagonal-traverse) |
@@ -652,6 +654,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
@@ -699,6 +702,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0162-find-peak-element](https://github.com/radhika-singh-10/leet-code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0275-h-index-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0275-h-index-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/radhika-singh-10/leet-code/tree/master/0374-guess-number-higher-or-lower) |
