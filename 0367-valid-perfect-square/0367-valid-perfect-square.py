@@ -5,10 +5,9 @@ class Solution:
         l,r=1,num//2
         while l<=r:
             m=l+(r-l)//2
-            temp=m*m
-            if temp==num:
+            if m*m==num:
                 return True
-            elif temp>num:
+            elif m*m>num:
                 r=m-1
             else:
                 l=m+1
