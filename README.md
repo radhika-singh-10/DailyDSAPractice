@@ -585,6 +585,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0227-basic-calculator-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/radhika-singh-10/leet-code/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
@@ -705,6 +706,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0240-search-a-2d-matrix-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0275-h-index-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0275-h-index-ii) |
+| [0367-valid-perfect-square](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/radhika-singh-10/leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/radhika-singh-10/leet-code/tree/master/0907-koko-eating-bananas) |
