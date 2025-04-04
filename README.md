@@ -125,6 +125,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0240-search-a-2d-matrix-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0256-paint-house](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0256-paint-house) |
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
 | [0275-h-index-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/radhika-singh-10/leet-code/tree/master/0283-move-zeroes) |
@@ -748,6 +749,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0152-maximum-product-subarray](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/radhika-singh-10/leet-code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0213-house-robber-ii) |
+| [0256-paint-house](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0256-paint-house) |
 | [0264-ugly-number-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0264-ugly-number-ii) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
 | [0376-wiggle-subsequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0376-wiggle-subsequence) |
