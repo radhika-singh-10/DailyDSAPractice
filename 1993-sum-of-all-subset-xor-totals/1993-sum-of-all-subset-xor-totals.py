@@ -17,10 +17,10 @@ class Solution:
             subsets(i+1,temp)
         subsets(0,[])
         print(subset)
-        for temp in range(len(subset)):
+        for i in range(len(subset)):
             xor=0
-            for i in subset[temp]:
-                xor^=i
+            for j in subset[i]:
+                xor^=j
             res+=xor
         return res
                 
