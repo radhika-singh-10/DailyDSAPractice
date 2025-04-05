@@ -259,6 +259,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/radhika-singh-10/leet-code/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2413-smallest-number-in-infinite-set](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2447-merge-similar-items](https://github.com/radhika-singh-10/leet-code/tree/master/2447-merge-similar-items) |
@@ -636,6 +637,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Ordered Set
 |  |
 | ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2413-smallest-number-in-infinite-set) |
 | [2447-merge-similar-items](https://github.com/radhika-singh-10/leet-code/tree/master/2447-merge-similar-items) |
 ## Heap (Priority Queue)
 |  |
@@ -654,6 +656,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/radhika-singh-10/leet-code/tree/master/1127-last-stone-weight) |
+| [2413-smallest-number-in-infinite-set](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2413-smallest-number-in-infinite-set) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Divide and Conquer
 |  |
@@ -934,6 +937,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1512-design-underground-system](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [2413-smallest-number-in-infinite-set](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2413-smallest-number-in-infinite-set) |
 ## Bit Manipulation
 |  |
 | ------- |
