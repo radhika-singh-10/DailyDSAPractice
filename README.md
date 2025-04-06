@@ -148,6 +148,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/radhika-singh-10/leet-code/tree/master/0682-baseball-game) |
@@ -698,6 +699,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
