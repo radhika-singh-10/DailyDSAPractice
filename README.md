@@ -599,6 +599,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0050-powx-n](https://github.com/radhika-singh-10/leet-code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/radhika-singh-10/leet-code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/radhika-singh-10/leet-code/tree/master/0202-happy-number) |
@@ -729,6 +730,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
