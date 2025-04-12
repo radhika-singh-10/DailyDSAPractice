@@ -137,6 +137,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0346-moving-average-from-data-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0362-design-hit-counter](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0362-design-hit-counter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0417-pacific-atlantic-water-flow) |
@@ -661,6 +662,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0264-ugly-number-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
