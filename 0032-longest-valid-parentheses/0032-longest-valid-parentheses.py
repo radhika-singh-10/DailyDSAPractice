@@ -1,6 +1,6 @@
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
-        
+        #mock interview questions
         res,n=0,len(s)
         stack=[]*n
         stack.append(-1)
