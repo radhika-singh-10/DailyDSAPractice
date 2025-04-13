@@ -322,6 +322,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0017-letter-combinations-of-a-phone-number](https://github.com/radhika-singh-10/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/radhika-singh-10/leet-code/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0065-valid-number) |
@@ -375,6 +376,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0155-min-stack) |
@@ -765,6 +767,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0010-regular-expression-matching](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/radhika-singh-10/leet-code/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0045-jump-game-ii) |
