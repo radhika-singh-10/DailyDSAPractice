@@ -3,11 +3,12 @@ class Solution:
         #mock interview questions
         res,n=0,len(s)
         stack=[]*n
-        stack.append(-1)
+        stack.append(-1)#will fail for cases that start with ) [)(())]
         for i in range(n):
             if s[i]=='(':
                 stack.append(i)
             else:
+                # if stack:#will fail for ()
                 stack.pop()
                 if not stack:
                     stack.append(i)
