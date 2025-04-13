@@ -2,7 +2,7 @@ class Solution:
     def longestValidParentheses(self, s: str) -> int:
         #mock interview questions
         res,n=0,len(s)
-        stack=[]*n
+        stack=[]
         stack.append(-1)#will fail for cases that start with ) [)(())]
         for i in range(n):
             if s[i]=='(':
