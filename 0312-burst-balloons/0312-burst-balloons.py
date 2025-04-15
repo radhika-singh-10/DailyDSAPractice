@@ -15,6 +15,7 @@ class Solution:
         #             remaining=dp[l][i-1]+dp[i+1][r]
         #             dp[l][r]=max(remaining+gain,dp[l][r])
         # return dp[1][n-2]
+        #similar to chain matrix multiplication method code
         for k in range(2,n):
             for l in range(n-k):
                 r=l+k
