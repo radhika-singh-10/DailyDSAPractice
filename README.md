@@ -330,6 +330,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0072-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/radhika-singh-10/leet-code/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0161-one-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0161-one-edit-distance) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0186-reverse-words-in-a-string-ii) |
@@ -424,6 +425,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0077-combinations](https://github.com/radhika-singh-10/leet-code/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/radhika-singh-10/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
@@ -786,6 +788,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/radhika-singh-10/leet-code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0213-house-robber-ii) |
