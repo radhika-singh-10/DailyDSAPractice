@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
-        
+        #siumilar to reverse linkedlist logic
         newHead=ListNode(0)
         newHead.next=head
         prev,slow=newHead,head
