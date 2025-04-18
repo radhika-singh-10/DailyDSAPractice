@@ -4,7 +4,7 @@ class Solution:
             #temp.sort()
             if cur==0:
                 #if temp not in res:
-                    res.append(temp.copy())
+                res.append(temp.copy())
             elif cur<0:
                 return 
 
