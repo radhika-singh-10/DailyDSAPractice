@@ -7,7 +7,6 @@ class UnionFind:
     def find(self,a):
         if a!=self.parent[a]:
             self.parent[a]=self.find(self.parent[a])
-        #return a
         return self.parent[a]
 
     def union(self,a,b):
