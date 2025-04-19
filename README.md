@@ -471,6 +471,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1665-diameter-of-n-ary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1665-diameter-of-n-ary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
@@ -512,6 +513,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1665-diameter-of-n-ary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1665-diameter-of-n-ary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
