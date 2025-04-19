@@ -5,8 +5,7 @@ class Solution:
         #we need to find a balance point
         max_weight,total_weight,res=-1,0,0
         for weight in weights:
-            max_weight=max(weight,max_weight)
-            total_weight+=weight
+            max_weight,total_weight=max(weight,max_weight),total_weight+weight
         left,right=max_weight,total_weight
         while left<right:
             mid=(left+right)//2
