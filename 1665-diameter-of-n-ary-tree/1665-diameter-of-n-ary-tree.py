@@ -7,6 +7,7 @@ class Node:
 """
 
 class Solution:
+    #mock interview question
     #intuition - we need to select the top 2 max height from the tree
     #either it is root-leaf, leaf-leaf 
     #we can store the heights in a set, and get top 2 heights - easier but more space and may exceed space complexity
