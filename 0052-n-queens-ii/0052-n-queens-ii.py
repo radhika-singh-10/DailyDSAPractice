@@ -1,6 +1,6 @@
 class Solution:
     def totalNQueens(self, n: int) -> int:
-        res,count=[],0
+        res=[]
         def backtrack(row,rowSet,colSet,diagonalSet,antiDiagonalSet,board):
             if row==n:
                 res.append(board)
@@ -9,6 +9,6 @@ class Solution:
                 if isValidCol:
                     backtrack(row+1,rowSet.union({row}),colSet.union({col}),diagonalSet.union({row+col}),antiDiagonalSet.union({row-col}),board+['.'*col+'Q'+'.'*(n-col-1)])
         backtrack(0,set(),set(),set(),set(),[])
-        count=len(res)
-        return count
+        
+        return len(res)
 
