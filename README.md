@@ -184,6 +184,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/radhika-singh-10/leet-code/tree/master/1646-kth-missing-positive-number) |
@@ -224,6 +225,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1046-max-consecutive-ones-iii](https://github.com/radhika-singh-10/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/radhika-singh-10/leet-code/tree/master/1206-corporate-flight-bookings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/radhika-singh-10/leet-code/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/radhika-singh-10/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -845,6 +847,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0643-maximum-average-subarray-i](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/radhika-singh-10/leet-code/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
