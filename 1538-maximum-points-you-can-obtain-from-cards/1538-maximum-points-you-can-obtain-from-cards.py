@@ -28,7 +28,7 @@ class Solution:
         #     return sum(cardPoints)
         # return getMax(cardPoints,0,n-1,k)
 
-        #memoization
+        #prefixsuffix
         front,rear=[0]*(k+1),[0]*(k+1)
         for i in range(k):
             front[i+1]=front[i]+cardPoints[i]
