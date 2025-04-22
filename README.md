@@ -449,6 +449,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0101-symmetric-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -484,6 +485,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -529,6 +531,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0101-symmetric-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -646,6 +649,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0101-symmetric-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0130-surrounded-regions) |
