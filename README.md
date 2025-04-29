@@ -133,6 +133,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0275-h-index-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/radhika-singh-10/leet-code/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0312-burst-balloons) |
 | [0321-create-maximum-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0321-create-maximum-number) |
@@ -780,6 +781,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0240-search-a-2d-matrix-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0275-h-index-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0362-design-hit-counter](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0362-design-hit-counter) |
 | [0367-valid-perfect-square](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/radhika-singh-10/leet-code/tree/master/0374-guess-number-higher-or-lower) |
@@ -827,6 +829,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0213-house-robber-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0213-house-robber-ii) |
 | [0256-paint-house](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0256-paint-house) |
 | [0264-ugly-number-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0312-burst-balloons) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
 | [0376-wiggle-subsequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0376-wiggle-subsequence) |
