@@ -222,6 +222,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -804,6 +805,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/radhika-singh-10/leet-code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Interactive
 |  |
 | ------- |
@@ -971,6 +973,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1046,6 +1049,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Randomized
 |  |
 | ------- |
