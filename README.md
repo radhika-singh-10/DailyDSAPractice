@@ -221,6 +221,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
 | [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,6 +289,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/radhika-singh-10/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
+| [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
 ## Matrix
 |  |
 | ------- |
@@ -615,6 +617,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
+| [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
 ## Counting
 |  |
 | ------- |
