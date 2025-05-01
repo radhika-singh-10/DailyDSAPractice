@@ -10,19 +10,15 @@ class Solution:
         #{0->[],1->[0],2->[0],3->[1,2]}
         #if circle-> {0->[3],1->[0],2->[0],3->[1,2]}->empty ans
         #visited=set() ->bfs
-        #topological sort - bfs
-        
+        #topological sort - bfs - kahn's algorithm
         
         graph = defaultdict(list)
-        for course,prereq in prerequisites:
-            graph[prereq].append(course)
         in_degree=[0]*numCourses
-        for course,prereq in prerequisites:
-            in_degree[course]+=1
-        queue=deque()
-        for i in range(numCourses):
-            if in_degree[i]==0:
-                queue.append(i)
+        #here it is confusing to creeate a dag
+        for a,b in prerequisites:
+            graph[b].append(a)
+            in_degree[a]+=1
+        queue=deque([i for i in range(numCourses) if in_degree[i]==0])
         res=[]
         while queue:
             node=queue.popleft()
@@ -32,8 +28,5 @@ class Solution:
                 if in_degree[neigbour]==0:
                     queue.append(neigbour)
 
+        return res if len(res)==numCourses else []
 
-        if len(res)<numCourses:
-            return []
-
-        return res
