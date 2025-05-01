@@ -205,6 +205,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2176-parallel-courses-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2176-parallel-courses-iii) |
 | [2358-number-of-ways-to-split-array](https://github.com/radhika-singh-10/leet-code/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
@@ -856,6 +857,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1488-sort-integers-by-the-power-value](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1488-sort-integers-by-the-power-value) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2176-parallel-courses-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2176-parallel-courses-iii) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 ## Combinatorics
 |  |
@@ -975,6 +977,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2176-parallel-courses-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2176-parallel-courses-iii) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Counting Sort
@@ -999,6 +1002,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0210-course-schedule-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0210-course-schedule-ii) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
+| [2176-parallel-courses-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2176-parallel-courses-iii) |
 ## Number Theory
 |  |
 | ------- |
