@@ -475,6 +475,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0366-find-leaves-of-binary-tree) |
@@ -515,6 +516,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
@@ -560,6 +562,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
 | [0366-find-leaves-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0366-find-leaves-of-binary-tree) |
