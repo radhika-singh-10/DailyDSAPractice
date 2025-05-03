@@ -13,6 +13,8 @@ class Solution:
         #time complexity- 0(nlogn), space complexity -> 0(1)
 
         #[2,5,6,0,0,1,1,2,2] target=6
+
+        #striver binary search 
         n=len(nums)
         if not nums:
             return False
