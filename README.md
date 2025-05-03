@@ -83,6 +83,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0011-container-with-most-water](https://github.com/radhika-singh-10/leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/radhika-singh-10/leet-code/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/radhika-singh-10/leet-code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/radhika-singh-10/leet-code/tree/master/0039-combination-sum) |
@@ -782,6 +783,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
