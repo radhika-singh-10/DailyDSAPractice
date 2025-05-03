@@ -151,6 +151,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [0498-diagonal-traverse](https://github.com/radhika-singh-10/leet-code/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0550-shortest-path-to-get-food) |
 | [0555-split-concatenated-strings](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0555-split-concatenated-strings) |
@@ -800,6 +801,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0362-design-hit-counter](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0362-design-hit-counter) |
 | [0367-valid-perfect-square](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/radhika-singh-10/leet-code/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
