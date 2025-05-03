@@ -1,5 +1,6 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
+        #mock question. - meta
         n=len(nums)
         l,r=0,n-1
         while l<=r:
