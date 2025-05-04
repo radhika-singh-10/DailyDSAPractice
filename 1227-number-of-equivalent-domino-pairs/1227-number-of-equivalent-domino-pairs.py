@@ -6,7 +6,9 @@ class Solution:
         for x,y in dominoes:
             val=x*10+y if x<=y else y*10+x 
             res+=domino_map[val]
+            #print(res)
             domino_map[val]+=1
+            #print(res,domino_map[val])
         return res
             
         # for i in range(len(dominoes)):
