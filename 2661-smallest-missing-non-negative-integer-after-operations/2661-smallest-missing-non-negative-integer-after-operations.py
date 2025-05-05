@@ -5,7 +5,7 @@ class Solution:
         count=Counter(x%value for x in nums)
         minValue=0
         for i in range(value):
-            print(i,count[i],minValue,count[minValue])
+            #print(i,count[i],minValue,count[minValue])
             if count[i]<count[minValue]:
                 minValue=i
         return value*count[minValue]+minValue
