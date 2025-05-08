@@ -1,6 +1,7 @@
 import heapq
 class Solution:
     def minTimeToReach(self, moveTime: List[List[int]]) -> int:
+        ##djisktra's algorithm - amazon
         n = len(moveTime)
         m = len(moveTime[0])
         dp = [[float('inf')] * m for _ in range(n)]
