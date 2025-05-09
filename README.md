@@ -272,6 +272,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0264-ugly-number-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0264-ugly-number-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/radhika-singh-10/leet-code/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0460-lfu-cache) |
@@ -725,6 +726,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0264-ugly-number-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0658-find-k-closest-elements) |
@@ -928,6 +930,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0206-reverse-linked-list](https://github.com/radhika-singh-10/leet-code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/radhika-singh-10/leet-code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/radhika-singh-10/leet-code/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0460-lfu-cache) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0908-middle-of-the-linked-list) |
@@ -1044,6 +1047,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0295-find-median-from-data-stream](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
 | [0346-moving-average-from-data-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0346-moving-average-from-data-stream) |
+| [0355-design-twitter](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/radhika-singh-10/leet-code/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
