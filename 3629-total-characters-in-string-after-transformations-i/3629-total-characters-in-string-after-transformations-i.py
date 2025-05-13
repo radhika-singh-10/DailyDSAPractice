@@ -15,6 +15,7 @@ class Solution:
             freq = nxt
         ans = sum(freq) % mod
         return ans
+        #BRTUE FORCE
         # while t>0:
         #     temp=[ch for ch in s]
         #     new_stack=[]
