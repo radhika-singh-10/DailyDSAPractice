@@ -6,13 +6,14 @@ class Solution:
         freq = [0] * 26
         for ch in s:
             freq[ord(ch) - ord("a")] += 1
-        for round in range(t):
+        while t>0:
             nxt = [0] * 26
             nxt[0] = freq[25]
             nxt[1] = (freq[25] + freq[0]) % mod
             for i in range(2, 26):
                 nxt[i] = freq[i - 1]
             freq = nxt
+            t-=1
         ans = sum(freq) % mod
         return ans
         #BRTUE FORCE
