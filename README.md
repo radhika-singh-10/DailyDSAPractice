@@ -100,6 +100,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0056-merge-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/radhika-singh-10/leet-code/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
@@ -601,6 +602,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0047-permutations-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0229-majority-element-ii) |
@@ -970,6 +972,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0031-next-permutation](https://github.com/radhika-singh-10/leet-code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/radhika-singh-10/leet-code/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
