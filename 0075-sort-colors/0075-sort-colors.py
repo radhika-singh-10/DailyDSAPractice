@@ -3,23 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        z=o=t=0
-        for i in range(len(nums)):
-            if nums[i]==0:
-                z+=1
-            elif nums[i]==1:
-                o+=1
+        p1,p2=0,len(nums)-1
+        cur=p0=0
+
+        while cur<=p2:
+            if nums[cur]==0:
+                nums[p0],nums[cur]=nums[cur],nums[p0]
+                p0+=1
+                cur+=1
+            elif nums[cur]==2:
+                nums[cur],nums[p2]=nums[p2],nums[cur]
+                p2-=1
             else:
-                t+=1
-        for i in range(len(nums)):
-            if z>0:
-                nums[i]=0
-                z-=1
-            elif o>0:
-                nums[i]=1
-                o-=1
-            else:
-                nums[i]=2
-                t-=1
-        
-        
+                cur+=1
