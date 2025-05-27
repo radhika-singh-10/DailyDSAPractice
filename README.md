@@ -694,6 +694,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2383-add-two-integers](https://github.com/radhika-singh-10/leet-code/tree/master/2383-add-two-integers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/radhika-singh-10/leet-code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Breadth-First Search
 |  |
