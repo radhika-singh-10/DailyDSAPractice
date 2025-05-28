@@ -100,6 +100,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/radhika-singh-10/leet-code/tree/master/0078-subsets) |
@@ -338,6 +339,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/radhika-singh-10/leet-code/tree/master/0498-diagonal-traverse) |
@@ -363,6 +365,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0044-wildcard-matching](https://github.com/radhika-singh-10/leet-code/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/radhika-singh-10/leet-code/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0097-interleaving-string) |
