@@ -690,6 +690,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
 | [1274-number-of-days-between-two-dates](https://github.com/radhika-singh-10/leet-code/tree/master/1274-number-of-days-between-two-dates) |
@@ -813,6 +814,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0649-dota2-senate) |
+| [0670-maximum-swap](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0890-lemonade-change) |
