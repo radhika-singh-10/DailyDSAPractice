@@ -6,6 +6,7 @@ class Solution:
         res=[[] for _ in range(numRows)]
         i,counter=0,1
         for ch in s:
+            #print(i,counter,ch,numRows,res)
             res[i].append(ch)
             #print(i,counter,ch)
             if i==0:
@@ -13,7 +14,9 @@ class Solution:
             elif i==numRows-1:
                 counter=-1
             i+=counter
+        #print(res)   
         for i in range(numRows):
             res[i]=''.join(res[i])
+
         return "".join(res)
         
