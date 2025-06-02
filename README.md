@@ -677,6 +677,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0002-add-two-numbers](https://github.com/radhika-singh-10/leet-code/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/radhika-singh-10/leet-code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0060-permutation-sequence) |
@@ -1106,6 +1107,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/radhika-singh-10/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0190-reverse-bits) |
