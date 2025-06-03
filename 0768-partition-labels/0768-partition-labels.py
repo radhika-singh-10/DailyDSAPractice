@@ -1,6 +1,6 @@
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
-        
+        #we need to basically consider those characters that are exisitng closely
         occurence=[0]*26
         for i,ch in enumerate(s):
             occurence[ord(ch)-ord("a")]=i
