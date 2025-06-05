@@ -397,6 +397,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0782-jewels-and-stones](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/radhika-singh-10/leet-code/tree/master/0851-goat-latin) |
 | [1023-time-based-key-value-store](https://github.com/radhika-singh-10/leet-code/tree/master/1023-time-based-key-value-store) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/radhika-singh-10/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1250-longest-common-subsequence) |
@@ -1129,6 +1130,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0547-number-of-provinces](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0695-max-area-of-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
