@@ -2,7 +2,7 @@ class Solution:
     def countSubmatrices(self, grid: List[List[int]], k: int) -> int:
         n,m=len(grid),len(grid[0])
         res,tempSum=0,0
-        #dp question
+        #prefix sum 2d question
         for i in range(n):
             for j in range(m):
                 if i>0:
