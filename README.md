@@ -230,6 +230,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3194-find-words-containing-character) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -253,6 +254,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2358-number-of-ways-to-split-array](https://github.com/radhika-singh-10/leet-code/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/radhika-singh-10/leet-code/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/radhika-singh-10/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
@@ -338,6 +340,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
