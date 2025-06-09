@@ -6,7 +6,7 @@ class Solution:
         k-=1
         while k>0:
             steps=self.countSteps(n,curr,curr+1)
-            print(k,steps)
+            #print(k,steps,curr,curr+1)
             if steps<=k:
                 curr+=1
                 k-=steps
@@ -20,6 +20,7 @@ class Solution:
         steps=0
         while prefOne<=n:
             steps+=min(n+1,prefTwo)-prefOne
+            #print(prefOne,prefTwo,steps,n)
             prefOne*=10
             prefTwo*=10
         return steps
