@@ -178,6 +178,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/radhika-singh-10/leet-code/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0912-random-pick-with-weight) |
 | [0932-monotonic-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0967-minimum-falling-path-sum) |
@@ -246,6 +247,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0525-contiguous-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0724-find-pivot-index) |
+| [0912-random-pick-with-weight](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/radhika-singh-10/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/radhika-singh-10/leet-code/tree/master/1206-corporate-flight-bookings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
@@ -710,6 +712,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0670-maximum-swap) |
+| [0912-random-pick-with-weight](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
 | [1274-number-of-days-between-two-dates](https://github.com/radhika-singh-10/leet-code/tree/master/1274-number-of-days-between-two-dates) |
@@ -875,6 +878,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0658-find-k-closest-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/radhika-singh-10/leet-code/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/radhika-singh-10/leet-code/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/radhika-singh-10/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -1154,6 +1158,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
+| [0912-random-pick-with-weight](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0912-random-pick-with-weight) |
 ## Memoization
 |  |
 | ------- |
