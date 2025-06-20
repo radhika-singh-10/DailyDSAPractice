@@ -24,9 +24,3 @@ class Solution:
                 longitude-=1
             res=max(res,min(abs(latitude) + abs(longitude) + k * 2, i + 1))
         return res
-            
-
-
-            
-
-
