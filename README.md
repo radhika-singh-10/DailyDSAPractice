@@ -99,6 +99,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0053-maximum-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0073-set-matrix-zeroes) |
