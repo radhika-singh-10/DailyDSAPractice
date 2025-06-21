@@ -317,6 +317,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/radhika-singh-10/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -430,6 +431,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2580-circular-sentence](https://github.com/radhika-singh-10/leet-code/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/radhika-singh-10/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3194-find-words-containing-character](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3194-find-words-containing-character) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -674,6 +676,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2636-maximum-subsequence-score](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2636-maximum-subsequence-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
 | [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
 ## Counting
@@ -689,6 +692,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/radhika-singh-10/leet-code/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -856,6 +860,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2636-maximum-subsequence-score](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
 |  |
