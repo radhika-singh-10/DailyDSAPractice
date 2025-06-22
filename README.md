@@ -411,6 +411,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0768-partition-labels](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/radhika-singh-10/leet-code/tree/master/0851-goat-latin) |
+| [0953-reverse-only-letters](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0953-reverse-only-letters) |
 | [1023-time-based-key-value-store](https://github.com/radhika-singh-10/leet-code/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
@@ -1062,6 +1063,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0768-partition-labels](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0908-middle-of-the-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0908-middle-of-the-linked-list) |
+| [0953-reverse-only-letters](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0953-reverse-only-letters) |
 | [1028-interval-list-intersections](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1028-interval-list-intersections) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
