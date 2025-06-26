@@ -6,7 +6,9 @@ class Solution:
             a,b=points[i][0],points[i][1]
             dist=a*a+b*b
             min_heap.append((dist,a,b))
+        #print(min_heap)
         heapq.heapify(min_heap)
+        #print(min_heap)
         for _ in range(k):
             _,a,b=heapq.heappop(min_heap)
             res.append((a,b))
