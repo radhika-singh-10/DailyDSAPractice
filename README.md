@@ -175,6 +175,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0695-max-area-of-island](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/radhika-singh-10/leet-code/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
@@ -297,6 +298,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
 | [0694-number-of-distinct-islands](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0694-number-of-distinct-islands) |
+| [0740-delete-and-earn](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0782-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/radhika-singh-10/leet-code/tree/master/1023-time-based-key-value-store) |
@@ -947,6 +949,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [0542-01-matrix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/radhika-singh-10/leet-code/tree/master/0647-palindromic-substrings) |
+| [0740-delete-and-earn](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1250-longest-common-subsequence) |
