@@ -730,6 +730,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0912-random-pick-with-weight](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
+| [1236-n-th-tribonacci-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1236-n-th-tribonacci-number) |
 | [1274-number-of-days-between-two-dates](https://github.com/radhika-singh-10/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -952,6 +953,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0740-delete-and-earn](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0967-minimum-falling-path-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1488-sort-integers-by-the-power-value](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1488-sort-integers-by-the-power-value) |
@@ -1185,6 +1187,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0070-climbing-stairs](https://github.com/radhika-singh-10/leet-code/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0397-integer-replacement) |
+| [1236-n-th-tribonacci-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1236-n-th-tribonacci-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1488-sort-integers-by-the-power-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Data Stream
