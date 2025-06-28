@@ -214,6 +214,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1847-largest-subarray-length-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1847-largest-subarray-length-k) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/radhika-singh-10/leet-code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/radhika-singh-10/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1909-buildings-with-an-ocean-view](https://github.com/radhika-singh-10/leet-code/tree/master/1909-buildings-with-an-ocean-view) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
@@ -958,6 +959,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1488-sort-integers-by-the-power-value](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1488-sort-integers-by-the-power-value) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2176-parallel-courses-iii) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
