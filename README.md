@@ -127,6 +127,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0215-kth-largest-element-in-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/radhika-singh-10/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
@@ -340,6 +341,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0130-surrounded-regions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0417-pacific-atlantic-water-flow) |
@@ -938,6 +940,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0152-maximum-product-subarray](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/radhika-singh-10/leet-code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0221-maximal-square) |
 | [0256-paint-house](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0256-paint-house) |
 | [0264-ugly-number-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0300-longest-increasing-subsequence) |
