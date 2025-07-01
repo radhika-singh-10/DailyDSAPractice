@@ -445,6 +445,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
