@@ -3,8 +3,8 @@ class Solution:
         n,res=len(arr),-1
         counter=Counter(arr)
         #print(counter)
-        for key,value in enumerate(counter):
-            if value==counter[value]:
+        for value,count in counter.items():
+            if value==count:
                 res=max(res,value)
             #print(key,value)
         return res
