@@ -11,6 +11,7 @@ class Solution:
         
         for i in range(1,n-1):
             curRow.append(prevRow[i-1]+prevRow[i])
+            #print(curRow,prevRow[i-1]+prevRow[i])
         
         curRow.append(1)
         prevRows.append(curRow)
