@@ -4,19 +4,22 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        queue=deque()
-        n,m=len(matrix),len(matrix[0])
-        for i in range(n):
-            for j in range(m):
+        m,n,isCol=len(matrix),len(matrix[0]),False
+        for i in range(m):
+            if matrix[i][0]==0:
+                isCol=True
+            for j in range(1,n):
                 if matrix[i][j]==0:
-                    queue.append([i,j])
+                    matrix[0][j]=0
+                    matrix[i][0]=0
 
-        while queue:
-            row,col=queue.popleft()
-            matrix[row]=[0]*m
+        for i in range(1,m):
+            for j in range(1,n):
+                if not matrix[i][0] or not matrix[0][j]:
+                    matrix[i][j]=0
+        if matrix[0][0]==0:
             for j in range(n):
-                matrix[j][col]=0
-        return matrix
-        
-
-            
+                matrix[0][j]=0
+        if isCol:
+            for i in range(m):
+                matrix[i][0]=0
