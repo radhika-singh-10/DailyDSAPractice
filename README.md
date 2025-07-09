@@ -385,6 +385,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/radhika-singh-10/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
@@ -934,6 +935,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0032-longest-valid-parentheses) |
@@ -1062,6 +1064,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/radhika-singh-10/leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/radhika-singh-10/leet-code/tree/master/0031-next-permutation) |
