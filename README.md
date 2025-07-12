@@ -252,6 +252,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3731-sum-of-variable-length-subarrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3934-coupon-code-validator](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3934-coupon-code-validator) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -342,6 +343,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
+| [3934-coupon-code-validator](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3934-coupon-code-validator) |
 ## Matrix
 |  |
 | ------- |
@@ -461,6 +463,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3934-coupon-code-validator](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3934-coupon-code-validator) |
 ## Stack
 |  |
 | ------- |
@@ -705,6 +708,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
 | [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
+| [3934-coupon-code-validator](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3934-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
