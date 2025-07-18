@@ -230,6 +230,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2176-parallel-courses-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2176-parallel-courses-iii) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2358-number-of-ways-to-split-array](https://github.com/radhika-singh-10/leet-code/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
@@ -833,6 +834,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/radhika-singh-10/leet-code/tree/master/1127-last-stone-weight) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2413-smallest-number-in-infinite-set) |
 | [2636-maximum-subsequence-score](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2636-maximum-subsequence-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -995,6 +997,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2176-parallel-courses-iii) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
