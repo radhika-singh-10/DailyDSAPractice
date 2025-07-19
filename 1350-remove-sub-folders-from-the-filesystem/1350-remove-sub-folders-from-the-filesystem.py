@@ -27,17 +27,17 @@ class Solution:
 
         res=[]
         for path in folder:
-            cur_node=self.root
+            curNode=self.root
             folders=path.split("/")
             isSubFolder=False
             for i,folderName in enumerate(folders):
                 if folderName=="":
                     continue
-                nextNode=cur_node.children[folderName]
+                nextNode=curNode.children[folderName]
                 if nextNode.folderEnd and i!=len(folders)-1:
                     isSubFolder=True
                     break
-                cur_node=nextNode
+                curNode=nextNode
             if not isSubFolder:
                 res.append(path)
         return res
