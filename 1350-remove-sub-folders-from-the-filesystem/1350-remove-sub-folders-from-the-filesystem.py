@@ -9,6 +9,8 @@ class Solution:
 
     def removeSubfolders(self, folder: List[str]) -> List[str]:
         #union find 
+        #n.l.logn [l-letter compariosns] - tc
+        #n - sc
         folder.sort()
         res=[folder[0]]
         
