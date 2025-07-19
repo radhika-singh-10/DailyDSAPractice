@@ -9,6 +9,10 @@ class Solution:
 
     def removeSubfolders(self, folder: List[str]) -> List[str]:
         #union find 
+        #tc - n*l
+        #sc - n*l
+
+        #find logic
         for path in folder:
             cur_node=self.root
             folders=path.split("/")
