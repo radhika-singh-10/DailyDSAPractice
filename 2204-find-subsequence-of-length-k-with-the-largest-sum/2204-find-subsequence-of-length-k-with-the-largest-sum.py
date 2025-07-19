@@ -1,7 +1,5 @@
 class Solution:
     def maxSubsequence(self, nums: List[int], k: int) -> List[int]:
-        n=len(nums)
-        prefixSum=sum(nums)
         heap=[]
         for i,num in enumerate(nums):
             heapq.heappush(heap,(num,i))
