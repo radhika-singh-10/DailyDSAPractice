@@ -217,6 +217,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1646-kth-missing-positive-number](https://github.com/radhika-singh-10/leet-code/tree/master/1646-kth-missing-positive-number) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/radhika-singh-10/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1775-design-an-ordered-stream](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1775-design-an-ordered-stream) |
 | [1813-maximum-erasure-value](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/radhika-singh-10/leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/radhika-singh-10/leet-code/tree/master/1833-find-the-highest-altitude) |
@@ -327,6 +328,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1512-design-underground-system](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1512-design-underground-system) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/radhika-singh-10/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1775-design-an-ordered-stream](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1775-design-an-ordered-stream) |
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -1208,6 +1210,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1512-design-underground-system](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1775-design-an-ordered-stream](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1775-design-an-ordered-stream) |
 | [2413-smallest-number-in-infinite-set](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2413-smallest-number-in-infinite-set) |
 ## Bit Manipulation
 |  |
@@ -1258,6 +1261,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0362-design-hit-counter](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
+| [1775-design-an-ordered-stream](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1775-design-an-ordered-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
