@@ -342,6 +342,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2447-merge-similar-items](https://github.com/radhika-singh-10/leet-code/tree/master/2447-merge-similar-items) |
+| [2512-longest-uploaded-prefix](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2512-longest-uploaded-prefix) |
 | [2547-odd-string-difference](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2547-odd-string-difference) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -831,6 +832,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2413-smallest-number-in-infinite-set) |
 | [2447-merge-similar-items](https://github.com/radhika-singh-10/leet-code/tree/master/2447-merge-similar-items) |
+| [2512-longest-uploaded-prefix](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2512-longest-uploaded-prefix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -854,6 +856,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2413-smallest-number-in-infinite-set) |
+| [2512-longest-uploaded-prefix](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2512-longest-uploaded-prefix) |
 | [2636-maximum-subsequence-score](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2636-maximum-subsequence-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -958,6 +961,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/radhika-singh-10/leet-code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2512-longest-uploaded-prefix](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2512-longest-uploaded-prefix) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Interactive
@@ -1218,6 +1222,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1775-design-an-ordered-stream](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1775-design-an-ordered-stream) |
 | [2413-smallest-number-in-infinite-set](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2413-smallest-number-in-infinite-set) |
+| [2512-longest-uploaded-prefix](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2512-longest-uploaded-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1243,6 +1248,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2512-longest-uploaded-prefix](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2512-longest-uploaded-prefix) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Randomized
@@ -1303,10 +1309,12 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
+| [2512-longest-uploaded-prefix](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2512-longest-uploaded-prefix) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
+| [2512-longest-uploaded-prefix](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2512-longest-uploaded-prefix) |
 ## Bitmask
 |  |
 | ------- |
