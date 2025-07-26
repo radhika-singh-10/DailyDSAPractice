@@ -14,8 +14,10 @@ class Solution:
         lowerScoringPair=('ba' if higherScoringPair=='ab' else 'ab')
         stringAfterFirstPass=self.removeSubstring(s,higherScoringPair)
         removedPairsCount=(len(s)-len(stringAfterFirstPass))//2
+        #print(stringAfterFirstPass)
         res+=removedPairsCount*max(x,y)
         stringAfterSecondPass=self.removeSubstring(stringAfterFirstPass,lowerScoringPair)
+        #print(stringAfterSecondPass)
         removedPairsCount=(len(stringAfterFirstPass)-len(stringAfterSecondPass))//2
         res+=removedPairsCount*min(x,y)
         return res
