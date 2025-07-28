@@ -1,7 +1,7 @@
 class Solution:
     def countMaxOrSubsets(self, nums: List[int]) -> int:
         n=len(nums)
-        #brute force - recursion - and find subsets and check the max ones and increment the count
+        #brute force - recursion - and find subsets and check the max ones and increment the count, time complexity - worse
         #memoization - space complexity - worse
         maxOr,res=0,0
         
