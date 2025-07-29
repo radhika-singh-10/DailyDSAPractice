@@ -323,6 +323,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0694-number-of-distinct-islands](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0694-number-of-distinct-islands) |
 | [0740-delete-and-earn](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0782-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/radhika-singh-10/leet-code/tree/master/1023-time-based-key-value-store) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/radhika-singh-10/leet-code/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -448,6 +449,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0680-valid-palindrome-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/radhika-singh-10/leet-code/tree/master/0851-goat-latin) |
 | [0953-reverse-only-letters](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0953-reverse-only-letters) |
@@ -710,6 +712,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0778-reorganize-string) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
@@ -741,6 +744,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0778-reorganize-string) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/radhika-singh-10/leet-code/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -855,6 +859,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
@@ -916,6 +921,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0670-maximum-swap](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0778-reorganize-string) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0890-lemonade-change) |
 | [1139-previous-permutation-with-one-swap](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1139-previous-permutation-with-one-swap) |
