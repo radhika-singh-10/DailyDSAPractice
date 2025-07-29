@@ -5,6 +5,7 @@ class Solution:
         # for num in nums:
         #     maxOr|=num
         # memo=dict()
+        #approach referred from editorial
         res,pos=[0]*(n),[-1]*32
         for l in range(n-1,-1,-1):
             far=l
