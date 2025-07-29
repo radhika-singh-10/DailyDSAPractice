@@ -6,15 +6,15 @@ class Solution:
         #     maxOr|=num
         # memo=dict()
         #approach referred from editorial
-        res,pos=[0]*(n),[-1]*32
-        for l in range(n-1,-1,-1):
-            far=l
+        res,pos=[0]*(n),[0]*32
+        for r in range(n-1,-1,-1):
+            far=r
             for j in range(32):
-                if (nums[l]>>j) & 1:
-                    pos[j]=l
-                if pos[j]!=-1:
+                if (nums[r]>>j)&1:
+                    pos[j]=r
+                if pos[j]!=0:
                     far=max(far,pos[j])
-            res[l]=far-l+1
+            res[r]=far-r+1
         return res
         # def backtrack(idx,curOr,l,r):
             
