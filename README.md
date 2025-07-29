@@ -842,6 +842,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
@@ -871,6 +872,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0190-reverse-bits) |
@@ -1075,6 +1077,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/radhika-singh-10/leet-code/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/radhika-singh-10/leet-code/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -1301,6 +1304,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
