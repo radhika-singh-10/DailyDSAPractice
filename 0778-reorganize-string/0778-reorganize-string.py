@@ -2,10 +2,10 @@ class Solution:
     def reorganizeString(self, s: str) -> str:
         freq,n=Counter(s),len(s)
         maxCount,letter=0,''
-        for chr,count in freq.items():
+        for char,count in freq.items():
             if count>maxCount:
                 maxCount=count
-                letter=chr
+                letter=char
         if maxCount>(n+1)//2:
             return ""
         res=['']*len(s)
