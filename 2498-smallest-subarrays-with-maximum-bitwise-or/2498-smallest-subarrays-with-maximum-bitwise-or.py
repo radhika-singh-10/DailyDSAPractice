@@ -6,10 +6,10 @@ class Solution:
         #     maxOr|=num
         # memo=dict()
         #approach referred from editorial
-        res,pos=[0]*(n),[0]*32
+        res,pos=[0]*(n),[0]*31
         for r in range(n-1,-1,-1):
             far=r
-            for j in range(32):
+            for j in range(31):
                 if (nums[r]>>j)&1:
                     pos[j]=r
                 if pos[j]!=0:
