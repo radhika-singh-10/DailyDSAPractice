@@ -1,27 +1,46 @@
 class Solution:
     def reorganizeString(self, s: str) -> str:
-        freq,n=Counter(s),len(s)
-        maxCount,letter=0,''
-        for char,count in freq.items():
-            if count>maxCount:
-                maxCount=count
-                letter=char
-        if maxCount>(n+1)//2:
-            return ""
-        res=['']*len(s)
-        idx=0
-        while freq[letter]!=0:
-            res[idx]=letter
-            idx+=2
-            freq[letter]-=1
-        for char,count in freq.items():
-            while count>0:
-                if idx>=n:
-                    idx=1
-                res[idx]=char
-                idx+=2
-                count-=1
+        res=[]
+        pq=[(-count,char) for char,count in Counter(s).items()]
+        heapq.heapify(pq)
+        while pq:
+            count,char=heapq.heappop(pq)
+            if not res or char!=res[-1]:
+                res.append(char)
+                if count+1!=0:
+                    heapq.heappush(pq,(count+1,char))
+            else:
+                if not pq:
+                    return ''
+                tempCount,tempChar=heapq.heappop(pq)
+                res.append(tempChar)
+                if tempCount+1!=0:
+                    heapq.heappush(pq,(tempCount+1,tempChar))
+                heapq.heappush(pq,(count,char))
         return ''.join(res)
+
+        # freq,n=Counter(s),len(s)
+        # maxCount,letter=0,''
+        # for char,count in freq.items():
+        #     if count>maxCount:
+        #         maxCount=count
+        #         letter=char
+        # if maxCount>(n+1)//2:
+        #     return ""
+        # res=['']*len(s)
+        # idx=0
+        # while freq[letter]!=0:
+        #     res[idx]=letter
+        #     idx+=2
+        #     freq[letter]-=1
+        # for char,count in freq.items():
+        #     while count>0:
+        #         if idx>=n:
+        #             idx=1
+        #         res[idx]=char
+        #         idx+=2
+        #         count-=1
+        # return ''.join(res)
 
         # freq,n=Counter(s),len(s)
         # res=[0]*n
