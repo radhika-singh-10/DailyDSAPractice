@@ -1,7 +1,6 @@
 class Solution:
     def rangeAddQueries(self, n: int, queries: List[List[int]]) -> List[List[int]]:
         res=[[0]*n for _ in range(n)]
-        
         for query in queries:
             r1,c1,r2,c2=query
             for r in range(r1,r2+1):
