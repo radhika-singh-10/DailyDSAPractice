@@ -4,17 +4,11 @@ class Solution:
         
         for query in queries:
             r1,c1,r2,c2=query
-            res[r1][c1]+=1
-            if r2+1<n and c2+1<n:
-                res[r2+1][c2+1]+=1
-            if r2+1<n:
-                res[r2+1][c1]-=1
-            if c2+1<n:
-                res[r1][c2+1]-=1
-        for i in range(n):
-            for j in range(1,n):
-                res[i][j]+=res[i][j-1]
-        for i in range(1,n):
-            for j in range(n):
-                res[i][j]+=res[i-1][j]
+            for r in range(r1,r2+1):
+                res[r][c1]+=1
+                if c2+1<n:
+                    res[r][c2+1]-=1
+        for r in range(n):
+            for c in range(1,n):
+                res[r][c]+=res[r][c-1]
         return res
