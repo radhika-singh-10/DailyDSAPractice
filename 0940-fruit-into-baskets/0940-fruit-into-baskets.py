@@ -2,7 +2,6 @@ class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
         baskets,n,l={},len(fruits),0
         #sliding window - get max continuous len without breaking
-
         for r,fruit in enumerate(fruits):
             baskets[fruit]=baskets.get(fruit,0)+1
             if len(baskets)>2:
