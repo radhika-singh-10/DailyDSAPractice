@@ -245,6 +245,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2447-merge-similar-items](https://github.com/radhika-singh-10/leet-code/tree/master/2447-merge-similar-items) |
 | [2465-shifting-letters-ii](https://github.com/radhika-singh-10/leet-code/tree/master/2465-shifting-letters-ii) |
+| [2478-longest-nice-subarray](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2547-odd-string-difference](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2547-odd-string-difference) |
 | [2625-increment-submatrices-by-one](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2625-increment-submatrices-by-one) |
@@ -1088,6 +1089,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2209-number-of-equal-count-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2209-number-of-equal-count-substrings) |
+| [2478-longest-nice-subarray](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Monotonic Queue
@@ -1269,6 +1271,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2478-longest-nice-subarray](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/radhika-singh-10/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Union Find
