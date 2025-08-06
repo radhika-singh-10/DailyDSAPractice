@@ -1,9 +1,9 @@
 class Solution:
     def numOfUnplacedFruits(self, fruits: List[int], baskets: List[int]) -> int:
+        #editorial solution - need to understand properly
         n = len(baskets)
         m = int(math.sqrt(n))
-        section = (n + m - 1) // m
-        count = 0
+        section,count = (n + m - 1) // m, 0
         maxV = [0] * section
         for i in range(n):
             maxV[i // m] = max(maxV[i // m], baskets[i])
