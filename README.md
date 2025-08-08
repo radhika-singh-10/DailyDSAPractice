@@ -793,6 +793,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0670-maximum-swap) |
+| [0826-soup-servings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0826-soup-servings) |
 | [0912-random-pick-with-weight](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
@@ -1044,6 +1045,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0647-palindromic-substrings](https://github.com/radhika-singh-10/leet-code/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0747-min-cost-climbing-stairs) |
+| [0826-soup-servings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1236-n-th-tribonacci-number) |
@@ -1399,4 +1401,8 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1028-interval-list-intersections) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
