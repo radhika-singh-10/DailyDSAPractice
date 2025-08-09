@@ -1379,6 +1379,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0595-big-countries) |
 | [1204-new-users-daily-count](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1204-new-users-daily-count) |
 | [1258-article-views-i](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1258-article-views-i) |
