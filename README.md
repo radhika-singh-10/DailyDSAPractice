@@ -252,6 +252,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2625-increment-submatrices-by-one](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2625-increment-submatrices-by-one) |
 | [2636-maximum-subsequence-score](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2689-rearranging-fruits](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/radhika-singh-10/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -360,6 +361,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2512-longest-uploaded-prefix](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2512-longest-uploaded-prefix) |
 | [2547-odd-string-difference](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2547-odd-string-difference) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2689-rearranging-fruits](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/radhika-singh-10/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -747,6 +749,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2447-merge-similar-items](https://github.com/radhika-singh-10/leet-code/tree/master/2447-merge-similar-items) |
 | [2636-maximum-subsequence-score](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2636-maximum-subsequence-score) |
+| [2689-rearranging-fruits](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -957,6 +960,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2456-construct-smallest-number-from-di-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2636-maximum-subsequence-score](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2689-rearranging-fruits](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2689-rearranging-fruits) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
