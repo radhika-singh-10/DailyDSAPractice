@@ -487,6 +487,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1818-maximum-score-from-removing-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/radhika-singh-10/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/radhika-singh-10/leet-code/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2209-number-of-equal-count-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2209-number-of-equal-count-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -529,6 +530,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1909-buildings-with-an-ocean-view](https://github.com/radhika-singh-10/leet-code/tree/master/1909-buildings-with-an-ocean-view) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
@@ -962,6 +964,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1847-largest-subarray-length-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1847-largest-subarray-length-k) |
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2636-maximum-subsequence-score](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2636-maximum-subsequence-score) |
@@ -1200,6 +1203,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1028-interval-list-intersections](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1028-interval-list-intersections) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
