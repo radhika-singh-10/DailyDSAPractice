@@ -181,6 +181,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0735-asteroid-collision](https://github.com/radhika-singh-10/leet-code/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0747-min-cost-climbing-stairs) |
+| [0772-construct-quad-tree](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0890-lemonade-change) |
@@ -393,6 +394,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0542-01-matrix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0550-shortest-path-to-get-food) |
 | [0695-max-area-of-island](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0695-max-area-of-island) |
+| [0772-construct-quad-tree](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1036-rotting-oranges) |
@@ -602,6 +604,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0772-construct-quad-tree](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0772-construct-quad-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
@@ -910,6 +913,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0240-search-a-2d-matrix-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
+| [0772-construct-quad-tree](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
