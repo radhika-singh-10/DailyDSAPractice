@@ -15,6 +15,8 @@ class Solution:
         #divide and conquer
         #divide the matrix into 4 havles and check if same value in grid-isleaf, else further divide it it becomes a square of 4 size
         n=len(grid)
+        if n == 1:
+            return Node(val=bool(grid[0][0]), isLeaf=True)
         return self.recursion(grid,0,n,0,n)
 
     def recursion(self,grid,si,ei,sj,ej):
