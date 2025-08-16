@@ -2,7 +2,7 @@ class Solution:
     def missingElement(self, nums: List[int], k: int) -> int:
         #sorted -> binary search
         n = len(nums)
-        def missing(i: int) -> int:
+        def missing(i):
             return nums[i] - nums[0] - i
         if k > missing(n - 1):
             return nums[-1] + (k - missing(n - 1))
@@ -17,7 +17,7 @@ class Solution:
         p = l - 1
         return nums[p] + (k - missing(p))
 
-        
+
         # l,r,res=0,len(nums)-1,0
         # while l<=r:
         #     m=l+(r-l)//2
