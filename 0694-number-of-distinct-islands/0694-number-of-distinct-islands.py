@@ -20,8 +20,9 @@ class Solution:
                         grid[nr][nc] = -1
                         queue.append((nr, nc))
                         path.append(dir_char)
+                        #print(nr,nc)
                     path.append('E')  
-
+            #print(i, j,''.join(path))
             return ''.join(path)
 
         for i in range(m):
