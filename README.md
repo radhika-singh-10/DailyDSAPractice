@@ -818,6 +818,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1236-n-th-tribonacci-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1236-n-th-tribonacci-number) |
 | [1274-number-of-days-between-two-dates](https://github.com/radhika-singh-10/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
+| [1448-maximum-69-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -960,6 +961,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0890-lemonade-change](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0890-lemonade-change) |
 | [1139-previous-permutation-with-one-swap](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1139-previous-permutation-with-one-swap) |
 | [1304-longest-happy-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/radhika-singh-10/leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1847-largest-subarray-length-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1847-largest-subarray-length-k) |
