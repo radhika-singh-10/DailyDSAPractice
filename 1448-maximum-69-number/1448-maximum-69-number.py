@@ -1,6 +1,5 @@
 class Solution:
     def maximum69Number (self, num: int) -> int:
-        #is 6 is before 9 swap-2pointer
         stack=list(str(num))
         maxNum=num
         for i in range(len(stack)):
