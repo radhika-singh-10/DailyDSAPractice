@@ -11,6 +11,7 @@ class UnionFind:
 
     def union(self,x,y):
         rootx,rooty=self.find(x),self.find(y)
+
         if rootx!=rooty:
             if self.rank[rootx]<self.rank[rooty]:
                 self.parent[rootx]=rooty
@@ -20,6 +21,7 @@ class UnionFind:
                 self.parent[rootx]=rooty
                 self.rank[rooty]+=1
             self.count-=1
+        print(self.count,x,y,rootx,rooty)
     
     def add(self,x):
         if self.parent[x]==-1:
@@ -48,7 +50,7 @@ class Solution:
                 nr,nc=r+dx,c+dy
                 if isValid(nr,nc):
                     uf.union(i,nr*n+nc)
-            res.append(uf.getCount())
+            res.append(uf.count)
         return res
         
 
