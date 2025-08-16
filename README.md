@@ -143,6 +143,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0289-game-of-life](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0305-number-of-islands-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0305-number-of-islands-ii) |
 | [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0312-burst-balloons) |
 | [0321-create-maximum-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0321-create-maximum-number) |
@@ -322,6 +323,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0229-majority-element-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/radhika-singh-10/leet-code/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0264-ugly-number-ii) |
+| [0305-number-of-islands-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0305-number-of-islands-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0355-design-twitter) |
@@ -1316,6 +1318,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0130-surrounded-regions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
+| [0305-number-of-islands-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0305-number-of-islands-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0694-number-of-distinct-islands) |
