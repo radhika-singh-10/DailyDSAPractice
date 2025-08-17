@@ -13,7 +13,7 @@ class Solution:
             if len(beginSet) > len(endSet):
                 beginSet, endSet = endSet, beginSet
             
-            next_set = set()
+            nextSet = set()
             
             for word in beginSet:
                 for i in range(len(word)):
@@ -28,9 +28,9 @@ class Solution:
                         
                         if new_word in wordSet and new_word not in visited:
                             visited.add(new_word)
-                            next_set.add(new_word)
+                            nextSet.add(new_word)
             
-            beginSet = next_set
+            beginSet = nextSet
             res += 1
         
         return 0
