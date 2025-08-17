@@ -316,6 +316,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/radhika-singh-10/leet-code/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhika-singh-10/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -449,6 +450,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0072-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/radhika-singh-10/leet-code/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0097-interleaving-string) |
+| [0127-word-ladder](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0161-one-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0161-one-edit-distance) |
@@ -845,6 +847,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0112-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/radhika-singh-10/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
