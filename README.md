@@ -426,6 +426,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -501,6 +502,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2209-number-of-equal-count-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2209-number-of-equal-count-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2465-shifting-letters-ii](https://github.com/radhika-singh-10/leet-code/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
 | [2547-odd-string-difference](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2547-odd-string-difference) |
@@ -1097,6 +1099,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2176-parallel-courses-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2176-parallel-courses-iii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2426-maximum-profit-from-trading-stocks](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2426-maximum-profit-from-trading-stocks) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
