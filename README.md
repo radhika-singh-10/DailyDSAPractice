@@ -833,6 +833,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1636-number-of-substrings-with-only-1s](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2383-add-two-integers](https://github.com/radhika-singh-10/leet-code/tree/master/2383-add-two-integers) |
@@ -1420,6 +1421,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Database
