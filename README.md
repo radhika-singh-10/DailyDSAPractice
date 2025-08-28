@@ -274,6 +274,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3748-sort-matrix-by-diagonals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3791-fruits-into-baskets-iii) |
 | [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
@@ -418,6 +419,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
 | ------- |
@@ -779,6 +781,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
+| [3748-sort-matrix-by-diagonals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3934-coupon-code-validator) |
 ## Counting
