@@ -235,6 +235,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/radhika-singh-10/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1909-buildings-with-an-ocean-view](https://github.com/radhika-singh-10/leet-code/tree/master/1909-buildings-with-an-ocean-view) |
+| [1917-maximum-average-pass-ratio](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -926,6 +927,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/radhika-singh-10/leet-code/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2413-smallest-number-in-infinite-set) |
@@ -992,6 +994,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1818-maximum-score-from-removing-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/radhika-singh-10/leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1847-largest-subarray-length-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1847-largest-subarray-length-k) |
+| [1917-maximum-average-pass-ratio](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
