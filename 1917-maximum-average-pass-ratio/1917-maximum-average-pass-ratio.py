@@ -15,18 +15,19 @@ class Solution:
 
         #tc- 0(n+logn.n), sc=0(n)
 
-        def gain(p: int, t: int) -> float:
-            return (p + 1) / (t + 1) - p / t
-        n = len(classes)
-        heap = [(-gain(p, t), p, t) for p, t in classes]
-        heapq.heapify(heap)
-
+        def calculateGainRatio(passStudents, totalStudents):
+            return (passStudents+1)/(totalStudents+1) - (passStudents)/(totalStudents)
+        mod=10^-5
+        ratios,res,n=[],0.0,len(classes)
+        for i in range(n):
+            gainRatio = calculateGainRatio(classes[i][0],classes[i][1])
+            ratios.append((-gainRatio,classes[i][0],classes[i][1]))
+        heapq.heapify(ratios)
         for _ in range(extraStudents):
-            g, p, t = heapq.heappop(heap)   
-            p, t = p + 1, t + 1            
-            heapq.heappush(heap, (-gain(p, t), p, t))  
-        total_ratio = sum(p / t for _, p, t in heap)
-        return total_ratio / n
+            currentGain,passStudents,totalStudents=heapq.heappop(ratios)
+            heapq.heappush(ratios,(-calculateGainRatio(passStudents+1,totalStudents+1),passStudents+1,totalStudents+1))
+        totalRatio=sum(passes/totalStudents for _,passes,totalStudents in ratios)
+        return totalRatio/len(classes)
 
             
 
