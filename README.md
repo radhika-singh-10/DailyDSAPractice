@@ -497,6 +497,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1271-web-crawler](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1271-web-crawler) |
 | [1272-invalid-transactions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1272-invalid-transactions) |
 | [1274-number-of-days-between-two-dates](https://github.com/radhika-singh-10/leet-code/tree/master/1274-number-of-days-between-two-dates) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1304-longest-happy-string) |
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
