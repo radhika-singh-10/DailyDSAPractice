@@ -212,6 +212,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1272-invalid-transactions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1272-invalid-transactions) |
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
@@ -356,6 +357,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1272-invalid-transactions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1272-invalid-transactions) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-design-underground-system](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1512-design-underground-system) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -504,6 +506,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1304-longest-happy-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1304-longest-happy-string) |
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/radhika-singh-10/leet-code/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1512-design-underground-system](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1512-design-underground-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -775,6 +778,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1272-invalid-transactions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1272-invalid-transactions) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1488-sort-integers-by-the-power-value](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1488-sort-integers-by-the-power-value) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1675-magnetic-force-between-two-balls) |
