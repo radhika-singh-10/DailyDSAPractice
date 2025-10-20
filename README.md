@@ -243,6 +243,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-parallel-courses-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2176-parallel-courses-iii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -439,6 +440,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0735-asteroid-collision](https://github.com/radhika-singh-10/leet-code/tree/master/0735-asteroid-collision) |
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
@@ -516,6 +518,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/radhika-singh-10/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/radhika-singh-10/leet-code/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2209-number-of-equal-count-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2209-number-of-equal-count-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2346-largest-3-same-digit-number-in-string) |
