@@ -269,6 +269,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/radhika-singh-10/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
+| [3034-points-that-intersect-with-cars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3194-find-words-containing-character) |
@@ -307,6 +308,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2465-shifting-letters-ii](https://github.com/radhika-singh-10/leet-code/tree/master/2465-shifting-letters-ii) |
 | [2625-increment-submatrices-by-one](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/radhika-singh-10/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3034-points-that-intersect-with-cars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -385,6 +387,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/radhika-singh-10/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3034-points-that-intersect-with-cars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
