@@ -82,6 +82,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0004-median-of-two-sorted-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/radhika-singh-10/leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/radhika-singh-10/leet-code/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0035-search-insert-position) |
@@ -750,6 +751,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0015-3sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/radhika-singh-10/leet-code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0056-merge-intervals) |
@@ -1230,6 +1232,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0005-longest-palindromic-substring](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/radhika-singh-10/leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/radhika-singh-10/leet-code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/radhika-singh-10/leet-code/tree/master/0061-rotate-list) |
