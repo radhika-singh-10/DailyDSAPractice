@@ -660,6 +660,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
+| [1382-balance-a-binary-search-tree](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1382-balance-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1665-diameter-of-n-ary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1665-diameter-of-n-ary-tree) |
@@ -709,6 +710,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1271-web-crawler](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1271-web-crawler) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
+| [1382-balance-a-binary-search-tree](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1382-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -754,6 +756,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1382-balance-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sorting
@@ -984,6 +987,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0772-construct-quad-tree](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1382-balance-a-binary-search-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -1024,6 +1028,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0890-lemonade-change](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0890-lemonade-change) |
 | [1139-previous-permutation-with-one-swap](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1139-previous-permutation-with-one-swap) |
 | [1304-longest-happy-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1304-longest-happy-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/radhika-singh-10/leet-code/tree/master/1829-maximum-units-on-a-truck) |
@@ -1239,6 +1244,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0784-insert-into-a-binary-search-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
