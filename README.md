@@ -278,6 +278,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3194-find-words-containing-character](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3194-find-words-containing-character) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3433-count-mentions-per-user](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3433-count-mentions-per-user) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3583-count-special-triplets](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3583-count-special-triplets) |
@@ -455,6 +456,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/radhika-singh-10/leet-code/tree/master/2470-removing-stars-from-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3433-count-mentions-per-user](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3433-count-mentions-per-user) |
 | [3790-fruits-into-baskets-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
@@ -820,6 +822,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3433-count-mentions-per-user](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3433-count-mentions-per-user) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
@@ -891,6 +894,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2610-closest-prime-numbers-in-range](https://github.com/radhika-singh-10/leet-code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3433-count-mentions-per-user](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3433-count-mentions-per-user) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Breadth-First Search
