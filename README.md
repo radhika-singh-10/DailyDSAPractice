@@ -396,6 +396,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/radhika-singh-10/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -547,6 +548,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2547-odd-string-difference](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2547-odd-string-difference) |
 | [2580-circular-sentence](https://github.com/radhika-singh-10/leet-code/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/radhika-singh-10/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3194-find-words-containing-character](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -851,6 +853,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2174-next-greater-numerically-balanced-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/radhika-singh-10/leet-code/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2209-number-of-equal-count-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2209-number-of-equal-count-substrings) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
@@ -1103,6 +1106,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2512-longest-uploaded-prefix](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2512-longest-uploaded-prefix) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3790-fruits-into-baskets-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3791-fruits-into-baskets-iii) |
@@ -1213,6 +1217,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2478-longest-nice-subarray](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Monotonic Queue
 |  |
 | ------- |
