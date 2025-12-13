@@ -282,6 +282,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3583-count-special-triplets](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3606-coupon-code-validator) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -399,6 +400,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
 | [3583-count-special-triplets](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3606-coupon-code-validator) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -547,6 +549,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
+| [3606-coupon-code-validator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -824,6 +827,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3433-count-mentions-per-user) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
+| [3606-coupon-code-validator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3934-coupon-code-validator) |
