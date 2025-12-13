@@ -455,6 +455,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0498-diagonal-traverse](https://github.com/radhika-singh-10/leet-code/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/radhika-singh-10/leet-code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/radhika-singh-10/leet-code/tree/master/0735-asteroid-collision) |
+| [1041-robot-bounded-in-circle](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1041-robot-bounded-in-circle) |
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -516,6 +517,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0851-goat-latin](https://github.com/radhika-singh-10/leet-code/tree/master/0851-goat-latin) |
 | [0953-reverse-only-letters](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0953-reverse-only-letters) |
 | [1023-time-based-key-value-store](https://github.com/radhika-singh-10/leet-code/tree/master/1023-time-based-key-value-store) |
+| [1041-robot-bounded-in-circle](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1041-robot-bounded-in-circle) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/radhika-singh-10/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -892,6 +894,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0900-reordered-power-of-2](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
+| [1041-robot-bounded-in-circle](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1041-robot-bounded-in-circle) |
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
 | [1236-n-th-tribonacci-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1236-n-th-tribonacci-number) |
 | [1274-number-of-days-between-two-dates](https://github.com/radhika-singh-10/leet-code/tree/master/1274-number-of-days-between-two-dates) |
