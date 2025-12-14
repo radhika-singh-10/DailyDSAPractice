@@ -251,6 +251,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-parallel-courses-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2176-parallel-courses-iii) |
+| [2191-sort-the-jumbled-numbers](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2191-sort-the-jumbled-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -825,6 +826,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
+| [2191-sort-the-jumbled-numbers](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2191-sort-the-jumbled-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2447-merge-similar-items](https://github.com/radhika-singh-10/leet-code/tree/master/2447-merge-similar-items) |
