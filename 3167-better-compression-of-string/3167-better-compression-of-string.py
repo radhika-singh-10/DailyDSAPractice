@@ -25,7 +25,7 @@ class Solution:
                 hm[compressed[i]]=hm.get(compressed[i],0)+freq
         hm=dict(sorted(hm.items()))
         for i in hm:
-            print(i,hm[i])
+            # print(i,hm[i])
             res+=i+str(hm[i])
         return res
 
