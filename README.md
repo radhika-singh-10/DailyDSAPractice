@@ -402,6 +402,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3167-better-compression-of-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3167-better-compression-of-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
@@ -554,6 +555,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2580-circular-sentence](https://github.com/radhika-singh-10/leet-code/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/radhika-singh-10/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3167-better-compression-of-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3167-better-compression-of-string) |
 | [3194-find-words-containing-character](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -834,6 +836,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2689-rearranging-fruits](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
+| [3167-better-compression-of-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3167-better-compression-of-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3433-count-mentions-per-user) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
@@ -861,6 +864,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2209-number-of-equal-count-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2209-number-of-equal-count-substrings) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3167-better-compression-of-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3167-better-compression-of-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
 | [3583-count-special-triplets](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3583-count-special-triplets) |
