@@ -196,6 +196,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0932-monotonic-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0940-fruit-into-baskets) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
@@ -812,6 +813,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0807-custom-sort-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0807-custom-sort-string) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0900-reordered-power-of-2](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0900-reordered-power-of-2) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -854,6 +856,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0900-reordered-power-of-2) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/radhika-singh-10/leet-code/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1055,6 +1058,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0778-reorganize-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0778-reorganize-string) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0890-lemonade-change) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1139-previous-permutation-with-one-swap](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1139-previous-permutation-with-one-swap) |
 | [1304-longest-happy-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1304-longest-happy-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1382-balance-a-binary-search-tree) |
