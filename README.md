@@ -341,6 +341,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0146-lru-cache](https://github.com/radhika-singh-10/leet-code/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhika-singh-10/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/radhika-singh-10/leet-code/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0219-contains-duplicate-ii) |
@@ -494,6 +495,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0131-palindrome-partitioning](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0161-one-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0161-one-edit-distance) |
+| [0166-fraction-to-recurring-decimal](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -888,6 +890,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0069-sqrtx](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/radhika-singh-10/leet-code/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/radhika-singh-10/leet-code/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/radhika-singh-10/leet-code/tree/master/0223-rectangle-area) |
