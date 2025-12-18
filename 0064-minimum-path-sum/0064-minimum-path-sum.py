@@ -7,12 +7,15 @@ class Solution:
                 if i==j==0:
                     continue
                 up_path=left_path=float('inf')
-                if i!=0:
-                    up_path=grid[i][j]+grid[i-1][j]
                 if j!=0:
-                    left_path=grid[i][j]+grid[i][j-1]
+                    left_path=grid[i][j-1]+grid[i][j]
+                if i!=0:
+                    up_path=grid[i-1][j]+grid[i][j]
                 grid[i][j]=min(up_path,left_path)
-        return grid[n-1][m-1]
+        return grid[-1][-1]
+                
+
+
 
 
         #res=grid[n][m]
