@@ -1264,6 +1264,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0355-design-twitter](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0460-lfu-cache) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -1322,6 +1323,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0680-valid-palindrome-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
+| [0876-middle-of-the-linked-list](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0953-reverse-only-letters) |
 | [1028-interval-list-intersections](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1028-interval-list-intersections) |
