@@ -22,10 +22,12 @@ class Solution:
     
         prev,cur=None,slow
         while cur:
-            temp=cur.next
-            cur.next=prev
-            prev=cur
-            cur=temp
+            cur.next,prev,cur=prev,cur,cur.next
+
+            # temp=cur.next
+            # cur.next=prev
+            # prev=cur
+            # cur=temp
             
         
         first,second=head,prev
