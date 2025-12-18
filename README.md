@@ -577,6 +577,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0032-longest-valid-parentheses](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/radhika-singh-10/leet-code/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0227-basic-calculator-ii) |
@@ -612,6 +613,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0044-wildcard-matching](https://github.com/radhika-singh-10/leet-code/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/radhika-singh-10/leet-code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/radhika-singh-10/leet-code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0234-palindrome-linked-list) |
@@ -1254,6 +1256,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhika-singh-10/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/radhika-singh-10/leet-code/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhika-singh-10/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0203-remove-linked-list-elements) |
@@ -1301,6 +1304,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0086-partition-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhika-singh-10/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0161-one-edit-distance](https://github.com/radhika-singh-10/leet-code/tree/master/0161-one-edit-distance) |
