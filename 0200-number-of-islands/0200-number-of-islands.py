@@ -1,7 +1,6 @@
 from collections import deque
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        #bfs
         res,m,n = 0,len(grid),len(grid[0])
         for i in range(m):
             for j in range(n):
