@@ -279,6 +279,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3194-find-words-containing-character) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3221-maximum-array-hopping-score-ii) |
@@ -1242,6 +1243,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1437,6 +1439,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2478-longest-nice-subarray](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/radhika-singh-10/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Union Find
 |  |
 | ------- |
