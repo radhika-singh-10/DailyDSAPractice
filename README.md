@@ -116,6 +116,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0152-maximum-product-subarray) |
@@ -1042,6 +1043,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0045-jump-game-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/radhika-singh-10/leet-code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0135-candy) |
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
 | [0316-remove-duplicate-letters](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0316-remove-duplicate-letters) |
