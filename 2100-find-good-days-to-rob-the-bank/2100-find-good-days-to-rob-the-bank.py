@@ -13,7 +13,9 @@ class Solution:
             if security[i]<=security[i+1]:
                 non_decr_right[i]=non_decr_right[i+1]+1
                 continue
+        #print(non_incr_left,non_decr_right)
         for i in range(time,n-time):
+            #print(i,non_incr_left[i],non_decr_right[i])
             if non_incr_left[i]>=time and non_decr_right[i]>=time:
                 res.append(i)
         return res
