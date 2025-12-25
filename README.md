@@ -249,6 +249,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1078,6 +1079,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1917-maximum-average-pass-ratio](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
