@@ -250,6 +250,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -320,6 +321,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1833-find-the-highest-altitude](https://github.com/radhika-singh-10/leet-code/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/radhika-singh-10/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2358-number-of-ways-to-split-array](https://github.com/radhika-singh-10/leet-code/tree/master/2358-number-of-ways-to-split-array) |
 | [2420-find-all-good-indices](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2420-find-all-good-indices) |
 | [2465-shifting-letters-ii](https://github.com/radhika-singh-10/leet-code/tree/master/2465-shifting-letters-ii) |
@@ -1204,6 +1206,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1628-count-submatrices-with-all-ones](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2176-parallel-courses-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2176-parallel-courses-iii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
