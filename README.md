@@ -210,6 +210,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1059-missing-element-in-sorted-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1059-missing-element-in-sorted-array) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1086-high-five](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1086-high-five) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/radhika-singh-10/leet-code/tree/master/1127-last-stone-weight) |
 | [1139-previous-permutation-with-one-swap](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1139-previous-permutation-with-one-swap) |
@@ -381,6 +382,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/radhika-singh-10/leet-code/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
+| [1086-high-five](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1086-high-five) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1272-invalid-transactions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1272-invalid-transactions) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -836,6 +838,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1086-high-five](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1086-high-five) |
 | [1272-invalid-transactions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1272-invalid-transactions) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1488-sort-integers-by-the-power-value](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1488-sort-integers-by-the-power-value) |
@@ -1014,6 +1017,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/radhika-singh-10/leet-code/tree/master/1074-high-five) |
+| [1086-high-five](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1086-high-five) |
 | [1127-last-stone-weight](https://github.com/radhika-singh-10/leet-code/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1917-maximum-average-pass-ratio) |
