@@ -6,24 +6,24 @@ class Solution:
         m, n = len(nums1), len(nums2)
         left, right = 0, m
         while left <= right:
-            partitionA = (left + right) // 2
-            partitionB = (m + n + 1) // 2 - partitionA
-            maxLeftA = (float("-inf") if partitionA == 0 else nums1[partitionA - 1])
-            minRightA = float("inf") if partitionA == m else nums1[partitionA]
-            maxLeftB = (float("-inf") if partitionB == 0 else nums2[partitionB - 1])
-            minRightB = float("inf") if partitionB == n else nums2[partitionB]
+            midA = (left + right) // 2
+            midB = (m + n + 1) // 2 - midA
+            leftA = (float("-inf") if midA == 0 else nums1[midA - 1])
+            leftB = (float("-inf") if midB == 0 else nums2[midB - 1])
+            rightA = float("inf") if midA == m else nums1[midA]
+            rightB = float("inf") if midB == n else nums2[midB]
 
-            if maxLeftA <= minRightB and maxLeftB <= minRightA:
+            if leftA <= rightB and leftB <= rightA:
                 if (m + n) % 2 == 0:
                     return (
-                        max(maxLeftA, maxLeftB) + min(minRightA, minRightB)
+                        max(leftA, leftB) + min(rightA, rightB)
                     ) / 2
                 else:
-                    return max(maxLeftA, maxLeftB)
-            elif maxLeftA > minRightB:
-                right = partitionA - 1
+                    return max(leftA, leftB)
+            elif leftA > rightB:
+                right = midA - 1
             else:
-                left = partitionA + 1
+                left = midA + 1
 
         #combine the two arrays 
         #total length - l1+l2
