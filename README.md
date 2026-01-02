@@ -363,6 +363,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0355-design-twitter](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/radhika-singh-10/leet-code/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0560-subarray-sum-equals-k) |
@@ -515,6 +516,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
 | [0316-remove-duplicate-letters](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/radhika-singh-10/leet-code/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
 | [0408-valid-word-abbreviation](https://github.com/radhika-singh-10/leet-code/tree/master/0408-valid-word-abbreviation) |
@@ -867,6 +869,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0229-majority-element-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0778-reorganize-string) |
@@ -1233,6 +1236,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0362-design-hit-counter) |
+| [0387-first-unique-character-in-a-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0649-dota2-senate) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
