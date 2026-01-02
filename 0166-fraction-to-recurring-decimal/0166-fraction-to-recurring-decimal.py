@@ -5,8 +5,8 @@ class Solution:
         if numerator==0:
             return "0"
         res=[]
-        if (numerator<0)^(denominator<0):
-            res.append("-")
+        if (numerator<0) ^ (denominator<0):
+            return res.apend("-")
         numerator,denominator=abs(numerator),abs(denominator)
         res.append(str(numerator//denominator))
         rem=numerator%denominator
