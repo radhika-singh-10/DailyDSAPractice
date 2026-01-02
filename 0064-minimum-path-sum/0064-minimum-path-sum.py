@@ -1,18 +1,28 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
-        #reinforcement learning concept
-        res,n,m=0,len(grid),len(grid[0])
-        for i in range(n):
-            for j in range(m):
-                if i==j==0:
-                    continue
-                up_path=left_path=float('inf')
-                if j!=0:
-                    left_path=grid[i][j-1]+grid[i][j]
-                if i!=0:
-                    up_path=grid[i-1][j]+grid[i][j]
-                grid[i][j]=min(up_path,left_path)
-        return grid[-1][-1]
+        m, n = len(grid), len(grid[0])
+        for j in range(1, n):
+            grid[0][j] += grid[0][j - 1]
+        for i in range(1, m):
+            grid[i][0] += grid[i - 1][0]
+        for i in range(1, m):
+            for j in range(1, n):
+                grid[i][j] += min(grid[i - 1][j], grid[i][j - 1])
+
+        return grid[m - 1][n - 1]
+        # #reinforcement learning concept
+        # res,n,m=0,len(grid),len(grid[0])
+        # for i in range(n):
+        #     for j in range(m):
+        #         if i==j==0:
+        #             continue
+        #         up_path=left_path=float('inf')
+        #         if j!=0:
+        #             left_path=grid[i][j-1]+grid[i][j]
+        #         if i!=0:
+        #             up_path=grid[i-1][j]+grid[i][j]
+        #         grid[i][j]=min(up_path,left_path)
+        # return grid[-1][-1]
                 
 
 
