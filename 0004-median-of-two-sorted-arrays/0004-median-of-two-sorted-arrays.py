@@ -15,7 +15,9 @@ class Solution:
 
             if maxLeftA <= minRightB and maxLeftB <= minRightA:
                 if (m + n) % 2 == 0:
-                    return (max(maxLeftA, maxLeftB) + min(minRightA, minRightB)) / 2
+                    return (
+                        max(maxLeftA, maxLeftB) + min(minRightA, minRightB)
+                    ) / 2
                 else:
                     return max(maxLeftA, maxLeftB)
             elif maxLeftA > minRightB:
