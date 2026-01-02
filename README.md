@@ -234,6 +234,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1675-magnetic-force-between-two-balls](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1675-magnetic-force-between-two-balls) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/radhika-singh-10/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1756-design-most-recently-used-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1756-design-most-recently-used-queue) |
 | [1775-design-an-ordered-stream](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1775-design-an-ordered-stream) |
 | [1813-maximum-erasure-value](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/radhika-singh-10/leet-code/tree/master/1829-maximum-units-on-a-truck) |
@@ -469,6 +470,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0735-asteroid-collision](https://github.com/radhika-singh-10/leet-code/tree/master/0735-asteroid-collision) |
 | [1041-robot-bounded-in-circle](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1041-robot-bounded-in-circle) |
 | [1119-robot-bounded-in-circle](https://github.com/radhika-singh-10/leet-code/tree/master/1119-robot-bounded-in-circle) |
+| [1756-design-most-recently-used-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1756-design-most-recently-used-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2211-count-collisions-on-a-road) |
@@ -1036,6 +1038,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1382-balance-a-binary-search-tree) |
+| [1756-design-most-recently-used-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1756-design-most-recently-used-queue) |
 ## Quickselect
 |  |
 | ------- |
@@ -1287,6 +1290,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0876-middle-of-the-linked-list](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
+| [1756-design-most-recently-used-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1756-design-most-recently-used-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
@@ -1432,6 +1436,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1512-design-underground-system](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1756-design-most-recently-used-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1756-design-most-recently-used-queue) |
 | [1775-design-an-ordered-stream](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1775-design-an-ordered-stream) |
 | [2413-smallest-number-in-infinite-set](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2413-smallest-number-in-infinite-set) |
 | [2512-longest-uploaded-prefix](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2512-longest-uploaded-prefix) |
@@ -1500,6 +1505,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0460-lfu-cache](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0460-lfu-cache) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
+| [1756-design-most-recently-used-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1756-design-most-recently-used-queue) |
 ## Bucket Sort
 |  |
 | ------- |
