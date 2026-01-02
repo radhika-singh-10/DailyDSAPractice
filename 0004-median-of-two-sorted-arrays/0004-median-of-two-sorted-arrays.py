@@ -8,10 +8,8 @@ class Solution:
         while left <= right:
             midA = (left + right) // 2
             midB = (m + n + 1) // 2 - midA
-            leftA = (float("-inf") if midA == 0 else nums1[midA - 1])
-            leftB = (float("-inf") if midB == 0 else nums2[midB - 1])
-            rightA = float("inf") if midA == m else nums1[midA]
-            rightB = float("inf") if midB == n else nums2[midB]
+            leftA,leftB = (float("-inf") if midA == 0 else nums1[midA - 1]),(float("-inf") if midB == 0 else nums2[midB - 1])
+            rightA,rightB = float("inf") if midA == m else nums1[midA],float("inf") if midB == n else nums2[midB]
 
             if leftA <= rightB and leftB <= rightA:
                 if (m + n) % 2 == 0:
