@@ -24,10 +24,10 @@ class Solution:
                    
                 hm[compressed[i]]=hm.get(compressed[i],0)+freq
         hm=dict(sorted(hm.items()))
-        for i in hm:
-            # print(i,hm[i])
-            res+=i+str(hm[i])
+        for alphabet in hm:
+            res+=alphabet+str(hm[alphabet])
         return res
+        
 
 
         
