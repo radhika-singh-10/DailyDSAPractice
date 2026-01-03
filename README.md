@@ -556,6 +556,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1512-design-underground-system](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1512-design-underground-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/radhika-singh-10/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1362,6 +1363,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1028-interval-list-intersections](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1028-interval-list-intersections) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
