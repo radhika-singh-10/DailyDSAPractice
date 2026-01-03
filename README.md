@@ -1584,6 +1584,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Concurrency
 |  |
 | ------- |
+| [1116-print-zero-even-odd](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1116-print-zero-even-odd) |
 | [1410-traffic-light-controlled-intersection](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1410-traffic-light-controlled-intersection) |
 ## Hash Function
 |  |
