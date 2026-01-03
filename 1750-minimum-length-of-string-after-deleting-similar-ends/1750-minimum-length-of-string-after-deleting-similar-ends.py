@@ -1,6 +1,8 @@
 class Solution:
     def minimumLength(self, s: str) -> int:
         n=len(s)
+        if n==1:
+            return 1
         l,r=0,len(s)-1
         while l<r and s[l]==s[r]:
             ch=s[l]
