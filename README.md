@@ -1206,6 +1206,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0542-01-matrix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/radhika-singh-10/leet-code/tree/master/0647-palindromic-substrings) |
+| [0688-knight-probability-in-chessboard](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0688-knight-probability-in-chessboard) |
 | [0740-delete-and-earn](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0826-soup-servings) |
