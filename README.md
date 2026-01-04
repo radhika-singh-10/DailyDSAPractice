@@ -287,6 +287,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3081-minimum-array-length-after-pair-removals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
+| [3169-count-days-without-meetings](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3169-count-days-without-meetings) |
 | [3194-find-words-containing-character](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3194-find-words-containing-character) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3221-maximum-array-hopping-score-ii) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -861,6 +862,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3151-minimum-processing-time](https://github.com/radhika-singh-10/leet-code/tree/master/3151-minimum-processing-time) |
 | [3167-better-compression-of-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3167-better-compression-of-string) |
+| [3169-count-days-without-meetings](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3169-count-days-without-meetings) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3433-count-mentions-per-user) |
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
