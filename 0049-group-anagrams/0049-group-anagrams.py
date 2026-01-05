@@ -7,7 +7,6 @@ class Solution:
             count=[0]*26
             for ch in word:
                 count[ord(ch)-ord('a')]+=1
-            #print(tuple(count))
             res[tuple(count)].append(word)
 
         return list(res.values())
