@@ -138,6 +138,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0238-product-of-array-except-self](https://github.com/radhika-singh-10/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0249-group-shifted-strings](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0249-group-shifted-strings) |
 | [0252-meeting-rooms](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0253-meeting-rooms-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
@@ -361,6 +362,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0219-contains-duplicate-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/radhika-singh-10/leet-code/tree/master/0242-valid-anagram) |
+| [0249-group-shifted-strings](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0249-group-shifted-strings) |
 | [0264-ugly-number-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0264-ugly-number-ii) |
 | [0305-number-of-islands-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0305-number-of-islands-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -523,6 +525,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0212-word-search-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/radhika-singh-10/leet-code/tree/master/0242-valid-anagram) |
+| [0249-group-shifted-strings](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0249-group-shifted-strings) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
 | [0316-remove-duplicate-letters](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0316-remove-duplicate-letters) |
