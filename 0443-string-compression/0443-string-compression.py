@@ -4,8 +4,8 @@ class Solution:
             return 1
 
         res,n,w,r=0,len(chars),0,0
-        if n==0:
-            return 0
+        # if n==0:
+        #     return 0
         while r<n:
             ch,count=chars[r],0
             while r<n and chars[r]==ch:
