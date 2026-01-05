@@ -175,6 +175,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0560-subarray-sum-equals-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/radhika-singh-10/leet-code/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0582-kill-process](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0582-kill-process) |
 | [0611-valid-triangle-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0624-maximum-distance-in-arrays) |
@@ -371,6 +372,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0460-lfu-cache](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0582-kill-process](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0582-kill-process) |
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
 | [0694-number-of-distinct-islands](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0694-number-of-distinct-islands) |
@@ -696,6 +698,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0509-inorder-successor-in-bst-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0509-inorder-successor-in-bst-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0545-boundary-of-binary-tree) |
+| [0582-kill-process](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0582-kill-process) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -743,6 +746,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0543-diameter-of-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0545-boundary-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0547-number-of-provinces) |
+| [0582-kill-process](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0582-kill-process) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0694-number-of-distinct-islands) |
@@ -979,6 +983,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0542-01-matrix](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0547-number-of-provinces) |
 | [0550-shortest-path-to-get-food](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0550-shortest-path-to-get-food) |
+| [0582-kill-process](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0582-kill-process) |
 | [0655-print-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0655-print-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0695-max-area-of-island) |
