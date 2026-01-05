@@ -257,6 +257,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-parallel-courses-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2176-parallel-courses-iii) |
 | [2191-sort-the-jumbled-numbers](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2191-sort-the-jumbled-numbers) |
@@ -400,6 +401,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/radhika-singh-10/leet-code/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -479,6 +481,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1756-design-most-recently-used-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1756-design-most-recently-used-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2211-count-collisions-on-a-road](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2211-count-collisions-on-a-road) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -855,6 +858,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2191-sort-the-jumbled-numbers](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2191-sort-the-jumbled-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
