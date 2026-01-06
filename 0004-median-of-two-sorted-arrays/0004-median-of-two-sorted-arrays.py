@@ -5,11 +5,11 @@ class Solution:
         if n > m:
             return self.findMedianSortedArrays(nums2, nums1) 
 
-        low, high = 0, n
-        while low <= high:
-            m1 = (low + high) // 2
+        l, h = 0, n
+        while l <= h:
+            m1 = (l + h) // 2
             m2 = (n + m + 1) // 2 - m1
-
+             
             l1 = nums1[m1 - 1] if m1-1 >= 0 else float("-inf")
             r1 = nums1[m1]     if m1 < n else float("inf")
 
@@ -22,9 +22,9 @@ class Solution:
                 else:
                     return float(max(l1, l2))
             elif l1 > r2:
-                high = m1 - 1
+                h = m1 - 1
             else:  # l2 > r1
-                low = m1 + 1
+                l = m1 + 1
 
         return 0.0
 
