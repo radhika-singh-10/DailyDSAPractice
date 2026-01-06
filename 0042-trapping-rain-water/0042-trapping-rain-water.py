@@ -1,5 +1,7 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
+        if len(height)==0:
+            return 0
         left,right,max_right,max_left,res=0,len(height)-1,0,0,0
         #min of (left,right) * (right-left+1)
         while left<right:
