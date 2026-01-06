@@ -3,7 +3,7 @@ class Solution:
         #binary search
         n,m=len(nums1),len(nums2)
         if n > m:
-            return self.findMedianSortedArrays(nums2, nums1)
+            return self.findMedianSortedArrays(nums2, nums1) 
 
         low, high = 0, n
         while low <= high:
