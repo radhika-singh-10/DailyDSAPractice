@@ -252,6 +252,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -863,6 +864,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1829-maximum-units-on-a-truck](https://github.com/radhika-singh-10/leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -1279,6 +1281,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2209-number-of-equal-count-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2209-number-of-equal-count-substrings) |
 | [2478-longest-nice-subarray](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2478-longest-nice-subarray) |
