@@ -741,6 +741,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/radhika-singh-10/leet-code/tree/master/0270-closest-binary-search-tree-value) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0310-minimum-height-trees](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0333-largest-bst-subtree](https://github.com/radhika-singh-10/leet-code/tree/master/0333-largest-bst-subtree) |
@@ -980,6 +981,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0207-course-schedule](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -1429,6 +1431,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0207-course-schedule](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0310-minimum-height-trees) |
 | [1177-tree-diameter](https://github.com/radhika-singh-10/leet-code/tree/master/1177-tree-diameter) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
@@ -1623,4 +1626,8 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0826-soup-servings) |
+## Graph Theory
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
