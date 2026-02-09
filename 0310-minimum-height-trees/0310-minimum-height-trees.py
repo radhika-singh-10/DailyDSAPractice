@@ -1,6 +1,6 @@
 class Solution:
     def findMinHeightTrees(self, n: int, edges: List[List[int]]) -> List[int]:
-        
+        #topological sort
         if n<=2:
             return [i for i in range(n)]
         neighbors = [set() for i in range(n)]
