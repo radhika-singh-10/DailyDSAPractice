@@ -1485,6 +1485,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0342-power-of-four](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0397-integer-replacement) |
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
+| [0693-binary-number-with-alternating-bits](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
