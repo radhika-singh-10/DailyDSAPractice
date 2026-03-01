@@ -568,6 +568,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1512-design-underground-system](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1512-design-underground-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1777-determine-if-two-strings-are-close](https://github.com/radhika-singh-10/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1111,6 +1112,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1304-longest-happy-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1304-longest-happy-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1448-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/radhika-singh-10/leet-code/tree/master/1829-maximum-units-on-a-truck) |
 | [1847-largest-subarray-length-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1847-largest-subarray-length-k) |
