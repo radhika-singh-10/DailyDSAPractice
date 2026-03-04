@@ -124,6 +124,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/radhika-singh-10/leet-code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/radhika-singh-10/leet-code/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
@@ -358,6 +359,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0149-max-points-on-a-line](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/radhika-singh-10/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/radhika-singh-10/leet-code/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0219-contains-duplicate-ii) |
@@ -825,6 +827,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0056-merge-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/radhika-singh-10/leet-code/tree/master/0242-valid-anagram) |
@@ -890,6 +893,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0387-first-unique-character-in-a-string) |
@@ -1058,6 +1062,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0023-merge-k-sorted-lists](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0240-search-a-2d-matrix-ii) |
