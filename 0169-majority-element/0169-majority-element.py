@@ -1,10 +1,11 @@
 import random
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        majority_count=len(nums)//2
-        while True:
-            candidate = random.choice(nums)
-            if sum(1 for elem in nums if elem==candidate)>majority_count:
-                return candidate
+        count=0
+        candiate=0
+        for num in nums:
+            if count==0:
+                candidate=num
+            count+=1 if num ==candidate else -1
         return candidate
         
