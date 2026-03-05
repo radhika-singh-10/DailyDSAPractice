@@ -13,9 +13,7 @@ class Solution:
             cur.next=prev
             prev=cur
             cur=temp
-            
-        head=prev
-        return head
+        return prev
         # cur=None
         # #swapping by using two variables
         # while head and head.next:
