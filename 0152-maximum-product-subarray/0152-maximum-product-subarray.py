@@ -1,17 +1,43 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        if len(nums)==1:
-            return nums[0]
-        res,prefMul,sufMul=0,1,1
-        for i in range(len(nums)):
-            if prefMul==0:
-                prefMul=1
-            if sufMul==0:
-                sufMul=1
-            prefMul*=nums[i]
-            sufMul*=nums[len(nums)-i-1]
-            res=max(res,max(prefMul,sufMul))
+        n=len(nums)
+        min_mul,max_mul=nums[0],nums[0]
+        res=max_mul
+        for i in range(1,n):
+            cur=nums[i]
+            cur_max=max(cur,max(max_mul*cur,min_mul*cur))
+            min_mul=min(cur,min(max_mul*cur,min_mul*cur))
+            max_mul=cur_max
+            res=max(res,max_mul)
         return res
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # if len(nums)==1:
+        #     return nums[0]
+        # res,prefMul,sufMul=0,1,1
+        # for i in range(len(nums)):
+        #     if prefMul==0:
+        #         prefMul=1
+        #     if sufMul==0:
+        #         sufMul=1
+        #     prefMul*=nums[i]
+        #     sufMul*=nums[len(nums)-i-1]
+        #     res=max(res,max(prefMul,sufMul))
+        # return res
         # max_prod = nums[0]  
         # cur_max, cur_min = nums[0], nums[0]  
         # for i in range(1, len(nums)):
