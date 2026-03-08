@@ -932,6 +932,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/radhika-singh-10/leet-code/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/radhika-singh-10/leet-code/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/radhika-singh-10/leet-code/tree/master/0048-rotate-image) |
