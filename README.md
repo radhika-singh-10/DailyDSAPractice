@@ -250,6 +250,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/radhika-singh-10/leet-code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/radhika-singh-10/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [1905-count-sub-islands](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1905-count-sub-islands) |
 | [1909-buildings-with-an-ocean-view](https://github.com/radhika-singh-10/leet-code/tree/master/1909-buildings-with-an-ocean-view) |
 | [1917-maximum-average-pass-ratio](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1929-concatenation-of-array) |
@@ -469,6 +470,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1380-number-of-closed-islands](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1380-number-of-closed-islands) |
 | [1628-count-submatrices-with-all-ones](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1628-count-submatrices-with-all-ones) |
+| [1905-count-sub-islands](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1905-count-sub-islands) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2428-equal-row-and-column-pairs](https://github.com/radhika-singh-10/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2625-increment-submatrices-by-one](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2625-increment-submatrices-by-one) |
@@ -780,6 +782,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1665-diameter-of-n-ary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1665-diameter-of-n-ary-tree) |
+| [1905-count-sub-islands](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1905-count-sub-islands) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1017,6 +1020,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1544-count-good-nodes-in-binary-tree](https://github.com/radhika-singh-10/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1905-count-sub-islands](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1905-count-sub-islands) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1646,4 +1650,8 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0310-minimum-height-trees) |
+## Union-Find
+|  |
+| ------- |
+| [1905-count-sub-islands](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1905-count-sub-islands) |
 <!---LeetCode Topics End-->
