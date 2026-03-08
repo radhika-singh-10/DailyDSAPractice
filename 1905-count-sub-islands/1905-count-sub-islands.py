@@ -1,4 +1,7 @@
 class Solution:
+    
+
+        
 
     directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
 
@@ -22,6 +25,30 @@ class Solution:
 
     def countSubIslands(self, grid1: List[List[int]], grid2: List[List[int]]) -> int:
         m,n=len(grid1),len(grid1[0])
+        if m==1 and n==1 and grid1[0][0]==1 and grid2[0][0]==1:
+            return 1
+        elif m==1:
+            res,c=0,0
+            for i in range(m):
+                if grid1[i][0]==1 and grid1[i][0]==grid2[i][0]:
+                    c+=1
+                    continue
+                else:
+                    break
+            if c>0:
+                return 1
+            return 0
+        elif n==1:
+            res=0
+            for i in range(m):
+                if grid1[0][i]==1 and grid1[0][i]==grid2[0][i]:
+                    c+=1
+                    continue
+                else:
+                    break
+            if c>0:
+                return 1
+            return 0
         visited,res=[[False]*n for _ in range(m)],0
         for x in range(m):
             for y in range(n):
