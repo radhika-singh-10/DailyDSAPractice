@@ -5,8 +5,9 @@ class Solution:
             occurence=defaultdict(int)
             for j in range(i,n):
                 occurence[s[j]]+=1
+                #print(occurence,set(occurence),set(occurence.values()))
                 if len(set(occurence.values()))==1:
-                    res=max(res,j-i+1)
+                   res=max(res,j-i+1)
         return res
 
 
