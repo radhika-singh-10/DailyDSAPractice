@@ -956,6 +956,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0326-power-of-three](https://github.com/radhika-singh-10/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0539-minimum-time-difference) |
@@ -1510,6 +1511,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0090-subsets-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0397-integer-replacement) |
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [0693-binary-number-with-alternating-bits](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0693-binary-number-with-alternating-bits) |
