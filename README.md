@@ -440,6 +440,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3583-count-special-triplets](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3606-coupon-code-validator) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3713-longest-balanced-substring-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
@@ -607,6 +608,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3606-coupon-code-validator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3713-longest-balanced-substring-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3934-coupon-code-validator](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3934-coupon-code-validator) |
@@ -931,6 +933,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3474-better-compression-of-string](https://github.com/radhika-singh-10/leet-code/tree/master/3474-better-compression-of-string) |
 | [3583-count-special-triplets](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3713-longest-balanced-substring-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
@@ -1624,6 +1627,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2141-smallest-greater-multiple-made-of-two-digits](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2141-smallest-greater-multiple-made-of-two-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3713-longest-balanced-substring-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3713-longest-balanced-substring-i) |
 ## Database
 |  |
 | ------- |
