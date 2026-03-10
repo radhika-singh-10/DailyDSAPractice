@@ -196,6 +196,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0747-min-cost-climbing-stairs](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/radhika-singh-10/leet-code/tree/master/0777-toeplitz-matrix) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0890-lemonade-change) |
@@ -1187,6 +1188,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0611-valid-triangle-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-most-profit-assigning-work](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0853-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/radhika-singh-10/leet-code/tree/master/0907-koko-eating-bananas) |
