@@ -10,7 +10,7 @@ class Solution:
                     dist[dst]=dist[src]+time
         dist[0]=0
         res=max(dist)
-        print(res,dist)
+        #print(res,dist)
         return res if res<float('inf') else -1
 
 
