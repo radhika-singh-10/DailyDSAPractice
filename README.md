@@ -310,6 +310,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3606-coupon-code-validator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3606-coupon-code-validator) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3748-sort-matrix-by-diagonals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -345,6 +346,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3034-points-that-intersect-with-cars](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
@@ -442,6 +444,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3606-coupon-code-validator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3606-coupon-code-validator) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3713-longest-balanced-substring-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3819-count-covered-buildings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3819-count-covered-buildings) |
@@ -1095,6 +1098,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1014-k-closest-points-to-origin](https://github.com/radhika-singh-10/leet-code/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1382-balance-a-binary-search-tree) |
 | [1756-design-most-recently-used-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1756-design-most-recently-used-queue) |
+| [3719-longest-balanced-subarray-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3719-longest-balanced-subarray-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -1610,6 +1614,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
 | [2512-longest-uploaded-prefix](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2512-longest-uploaded-prefix) |
+| [3719-longest-balanced-subarray-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Bitmask
