@@ -383,6 +383,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0359-logger-rate-limiter](https://github.com/radhika-singh-10/leet-code/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0560-subarray-sum-equals-k) |
@@ -551,6 +552,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
 | [0408-valid-word-abbreviation](https://github.com/radhika-singh-10/leet-code/tree/master/0408-valid-word-abbreviation) |
 | [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0539-minimum-time-difference) |
 | [0555-split-concatenated-strings](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0555-split-concatenated-strings) |
@@ -1309,6 +1311,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0209-minimum-size-subarray-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0713-subarray-product-less-than-k) |
