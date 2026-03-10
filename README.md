@@ -779,6 +779,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0743-network-delay-time) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0871-keys-and-rooms](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/radhika-singh-10/leet-code/tree/master/0975-range-sum-of-bst) |
@@ -1026,6 +1027,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0662-maximum-width-of-binary-tree](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0743-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1036-rotting-oranges) |
@@ -1066,6 +1068,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0621-task-scheduler](https://github.com/radhika-singh-10/leet-code/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0743-network-delay-time) |
 | [0778-reorganize-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/radhika-singh-10/leet-code/tree/master/0948-sort-an-array) |
@@ -1653,6 +1656,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0743-network-delay-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Concurrency
 |  |
@@ -1676,6 +1680,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0310-minimum-height-trees) |
+| [0743-network-delay-time](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
