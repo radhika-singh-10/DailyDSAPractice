@@ -1267,6 +1267,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0688-knight-probability-in-chessboard](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0688-knight-probability-in-chessboard) |
 | [0740-delete-and-earn](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0747-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0967-minimum-falling-path-sum) |
