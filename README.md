@@ -363,6 +363,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0073-set-matrix-zeroes](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0127-word-ladder) |
+| [0133-clone-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/radhika-singh-10/leet-code/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0149-max-points-on-a-line) |
@@ -751,6 +752,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/radhika-singh-10/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0207-course-schedule) |
@@ -1008,6 +1010,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/radhika-singh-10/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/radhika-singh-10/leet-code/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0207-course-schedule) |
@@ -1679,6 +1682,7 @@ Stay curious, keep solving, and happy coding! 🌟
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0310-minimum-height-trees) |
 | [0743-network-delay-time](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0743-network-delay-time) |
 ## Union-Find
