@@ -268,6 +268,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2100-find-good-days-to-rob-the-bank](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
+| [2126-destroying-asteroids](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -899,6 +900,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
+| [2126-destroying-asteroids](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2126-destroying-asteroids) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2191-sort-the-jumbled-numbers](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2191-sort-the-jumbled-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1163,6 +1165,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2126-destroying-asteroids](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2126-destroying-asteroids) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2636-maximum-subsequence-score](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2636-maximum-subsequence-score) |
