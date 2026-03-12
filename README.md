@@ -266,6 +266,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2105-watering-plants-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2105-watering-plants-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2126-destroying-asteroids](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2126-destroying-asteroids) |
@@ -504,6 +505,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1756-design-most-recently-used-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1756-design-most-recently-used-queue) |
 | [1929-concatenation-of-array](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2105-watering-plants-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2105-watering-plants-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2211-count-collisions-on-a-road](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2211-count-collisions-on-a-road) |
@@ -1441,6 +1443,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1768-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2105-watering-plants-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2105-watering-plants-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
