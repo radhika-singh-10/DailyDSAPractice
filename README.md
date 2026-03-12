@@ -164,6 +164,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/radhika-singh-10/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
+| [0414-third-maximum-number](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
@@ -863,6 +864,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0324-wiggle-sort-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/radhika-singh-10/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0354-russian-doll-envelopes) |
+| [0414-third-maximum-number](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0539-minimum-time-difference) |
