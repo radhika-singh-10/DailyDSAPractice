@@ -803,6 +803,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1665-diameter-of-n-ary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1665-diameter-of-n-ary-tree) |
 | [1905-count-sub-islands](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1905-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2092-find-all-people-with-secret) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -900,6 +901,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2092-find-all-people-with-secret](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2092-find-all-people-with-secret) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/radhika-singh-10/leet-code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2126-destroying-asteroids](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2126-destroying-asteroids) |
@@ -1050,6 +1052,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1558-course-schedule-iv](https://github.com/radhika-singh-10/leet-code/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/radhika-singh-10/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1905-count-sub-islands](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1905-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2092-find-all-people-with-secret) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/radhika-singh-10/leet-code/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1693,10 +1696,12 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0133-clone-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0310-minimum-height-trees) |
 | [0743-network-delay-time](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0743-network-delay-time) |
+| [2092-find-all-people-with-secret](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2092-find-all-people-with-secret) |
 ## Union-Find
 |  |
 | ------- |
 | [1905-count-sub-islands](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1905-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2092-find-all-people-with-secret) |
 ## String Matching
 |  |
 | ------- |
