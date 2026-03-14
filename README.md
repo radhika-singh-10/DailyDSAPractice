@@ -697,6 +697,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0212-word-search-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/radhika-singh-10/leet-code/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0401-binary-watch) |
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1547,6 +1548,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0342-power-of-four](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0401-binary-watch) |
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
 | [0693-binary-number-with-alternating-bits](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0934-bitwise-ors-of-subarrays) |
