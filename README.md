@@ -229,6 +229,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1227-number-of-equivalent-domino-pairs](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1228-missing-number-in-arithmetic-progression](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1228-missing-number-in-arithmetic-progression) |
 | [1272-invalid-transactions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1272-invalid-transactions) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1345-perform-string-shifts](https://github.com/radhika-singh-10/leet-code/tree/master/1345-perform-string-shifts) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1222,6 +1223,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1059-missing-element-in-sorted-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1059-missing-element-in-sorted-array) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/radhika-singh-10/leet-code/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1374-leftmost-column-with-at-least-a-one](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1374-leftmost-column-with-at-least-a-one) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/radhika-singh-10/leet-code/tree/master/1646-kth-missing-positive-number) |
