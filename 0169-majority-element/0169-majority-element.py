@@ -7,5 +7,6 @@ class Solution:
             if count==0:
                 candidate=num
             count+=1 if num ==candidate else -1
+            #print(candidate,num,count)
         return candidate
         
