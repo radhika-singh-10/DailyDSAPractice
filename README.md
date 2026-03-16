@@ -261,6 +261,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1909-buildings-with-an-ocean-view](https://github.com/radhika-singh-10/leet-code/tree/master/1909-buildings-with-an-ocean-view) |
 | [1917-maximum-average-pass-ratio](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/radhika-singh-10/leet-code/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/radhika-singh-10/leet-code/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -656,6 +657,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1628-count-submatrices-with-all-ones](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1909-buildings-with-an-ocean-view](https://github.com/radhika-singh-10/leet-code/tree/master/1909-buildings-with-an-ocean-view) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/2211-count-collisions-on-a-road) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1494,6 +1496,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1628-count-submatrices-with-all-ones](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1909-buildings-with-an-ocean-view](https://github.com/radhika-singh-10/leet-code/tree/master/1909-buildings-with-an-ocean-view) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3221-maximum-array-hopping-score-ii](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3221-maximum-array-hopping-score-ii) |
 ## Topological Sort
 |  |
