@@ -984,6 +984,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0223-rectangle-area](https://github.com/radhika-singh-10/leet-code/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0264-ugly-number-ii) |
+| [0319-bulb-switcher](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/radhika-singh-10/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0367-valid-perfect-square) |
@@ -1721,4 +1722,8 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
