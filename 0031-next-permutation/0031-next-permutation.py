@@ -3,6 +3,8 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        #similar to prblem no - greedy/two pointer approach
+
         #[1,2,3] -> [1,3,2], [2,3,1]->[3,1,2], [3,2,1]->[1,2,3]
         #egde cases-> all elements equal?, unique/duplicate allowed?, list in decreasing order completely?-reverse
         #approach
@@ -15,7 +17,6 @@ class Solution:
         i=n-2
         while i>=0 and nums[i]>=nums[i+1]:
             i-=1
-
         if i>=0:
             j=n-1
             while nums[j]<=nums[i]:
