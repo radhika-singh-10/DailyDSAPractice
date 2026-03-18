@@ -148,6 +148,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0256-paint-house](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0256-paint-house) |
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
 | [0275-h-index-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0275-h-index-ii) |
+| [0281-zigzag-iterator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0281-zigzag-iterator) |
 | [0283-move-zeroes](https://github.com/radhika-singh-10/leet-code/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0300-longest-increasing-subsequence) |
@@ -1330,6 +1331,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/radhika-singh-10/leet-code/tree/master/0239-sliding-window-maximum) |
+| [0281-zigzag-iterator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0281-zigzag-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/radhika-singh-10/leet-code/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0362-design-hit-counter) |
 | [0387-first-unique-character-in-a-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0387-first-unique-character-in-a-string) |
@@ -1533,6 +1535,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0208-implement-trie-prefix-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/radhika-singh-10/leet-code/tree/master/0271-encode-and-decode-strings) |
+| [0281-zigzag-iterator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0281-zigzag-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0307-range-sum-query-mutable) |
@@ -1667,6 +1670,7 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0173-binary-search-tree-iterator) |
+| [0281-zigzag-iterator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0281-zigzag-iterator) |
 ## Enumeration
 |  |
 | ------- |
