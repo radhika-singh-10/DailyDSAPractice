@@ -243,6 +243,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1510-find-lucky-integer-in-an-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-design-browser-history](https://github.com/radhika-singh-10/leet-code/tree/master/1582-design-browser-history) |
+| [1584-min-cost-to-connect-all-points](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1722,10 +1723,12 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0133-clone-graph](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0310-minimum-height-trees) |
 | [0743-network-delay-time](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1584-min-cost-to-connect-all-points) |
 | [2092-find-all-people-with-secret](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2092-find-all-people-with-secret) |
 ## Union-Find
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1905-count-sub-islands](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1905-count-sub-islands) |
 | [2092-find-all-people-with-secret](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/2092-find-all-people-with-secret) |
 ## String Matching
@@ -1736,4 +1739,8 @@ Stay curious, keep solving, and happy coding! 🌟
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0319-bulb-switcher) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
