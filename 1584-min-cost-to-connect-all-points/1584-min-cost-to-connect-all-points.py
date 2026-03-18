@@ -12,7 +12,7 @@ class Solution:
                 continue
             in_mst[curr_node] = True
             mst_cost += weight
-            edges_used += 1
+            # edges_used += 1
             
             for next_node in range(n):
                 if not in_mst[next_node]:
