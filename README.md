@@ -249,6 +249,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1628-count-submatrices-with-all-ones](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/radhika-singh-10/leet-code/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1675-magnetic-force-between-two-balls) |
+| [1711-count-good-meals](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1711-count-good-meals) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/radhika-singh-10/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1756-design-most-recently-used-queue](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1756-design-most-recently-used-queue) |
@@ -422,6 +423,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-design-underground-system](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/1512-design-underground-system) |
+| [1711-count-good-meals](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/1711-count-good-meals) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/radhika-singh-10/leet-code/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/radhika-singh-10/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1775-design-an-ordered-stream](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1775-design-an-ordered-stream) |
