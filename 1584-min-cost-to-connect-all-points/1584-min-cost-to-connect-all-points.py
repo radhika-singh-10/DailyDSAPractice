@@ -6,7 +6,7 @@ class Solution:
         mst_cost = 0
         edges_used = 0
         
-        while edges_used < n:
+        while heap:
             weight, curr_node = heapq.heappop(heap)
             if in_mst[curr_node]:
                 continue
