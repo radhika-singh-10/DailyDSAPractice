@@ -994,6 +994,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0223-rectangle-area](https://github.com/radhika-singh-10/leet-code/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/radhika-singh-10/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0342-power-of-four) |
@@ -1045,6 +1046,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0207-course-schedule](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/radhika-singh-10/leet-code/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0322-coin-change) |
@@ -1289,6 +1291,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0221-maximal-square](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0221-maximal-square) |
 | [0256-paint-house](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0256-paint-house) |
 | [0264-ugly-number-ii](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0322-coin-change) |
