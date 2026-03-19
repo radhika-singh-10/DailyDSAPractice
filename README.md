@@ -571,6 +571,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0387-first-unique-character-in-a-string](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/radhika-singh-10/leet-code/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/radhika-singh-10/leet-code/tree/master/0408-valid-word-abbreviation) |
 | [0412-fizz-buzz](https://github.com/radhika-singh-10/leet-code/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0424-longest-repeating-character-replacement) |
@@ -656,6 +657,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0316-remove-duplicate-letters](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/radhika-singh-10/leet-code/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/radhika-singh-10/leet-code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/radhika-singh-10/leet-code/tree/master/0735-asteroid-collision) |
@@ -1163,6 +1165,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0324-wiggle-sort-ii](https://github.com/radhika-singh-10/leet-code/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0502-ipo) |
 | [0555-split-concatenated-strings](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0555-split-concatenated-strings) |
@@ -1509,6 +1512,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/radhika-singh-10/leet-code/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0316-remove-duplicate-letters](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/radhika-singh-10/leet-code/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0739-daily-temperatures) |
 | [1628-count-submatrices-with-all-ones](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/1628-count-submatrices-with-all-ones) |
