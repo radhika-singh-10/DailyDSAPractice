@@ -170,6 +170,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0417-pacific-atlantic-water-flow](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/radhika-singh-10/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0465-optimal-account-balancing](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0465-optimal-account-balancing) |
+| [0485-max-consecutive-ones](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/radhika-singh-10/leet-code/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0518-coin-change-ii) |
