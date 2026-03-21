@@ -326,6 +326,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3606-coupon-code-validator](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3606-coupon-code-validator) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/radhika-singh-10/leet-code/tree/master/3639-zero-array-transformation-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3748-sort-matrix-by-diagonals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
@@ -506,6 +507,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3748-sort-matrix-by-diagonals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
@@ -1487,6 +1489,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3643-flip-square-submatrix-vertically](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph
 |  |
 | ------- |
