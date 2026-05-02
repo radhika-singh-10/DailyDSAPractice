@@ -1012,6 +1012,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0539-minimum-time-difference](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0564-find-the-closest-palindrome) |
 | [0670-maximum-swap](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0670-maximum-swap) |
+| [0788-rotated-digits](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0912-random-pick-with-weight) |
@@ -1319,6 +1320,7 @@ Stay curious, keep solving, and happy coding! 🌟
 | [0688-knight-probability-in-chessboard](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0688-knight-probability-in-chessboard) |
 | [0740-delete-and-earn](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/radhika-singh-10/daily-practice-dsa/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/radhika-singh-10/DailyDSAPractice/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/radhika-singh-10/daily_dsa_practice/tree/master/0934-bitwise-ors-of-subarrays) |
